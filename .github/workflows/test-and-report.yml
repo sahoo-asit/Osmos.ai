@@ -1,0 +1,151 @@
+name: Run Tests & Deploy Allure Report
+
+on:
+  # Manual trigger with options
+  workflow_dispatch:
+    inputs:
+      test_type:
+        description: 'Test type to run'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - api
+          - ui
+      parallel_workers:
+        description: 'Number of parallel workers'
+        required: true
+        default: '4'
+        type: choice
+        options:
+          - '2'
+          - '4'
+          - '8'
+          - '10'
+  # Auto-trigger on push to main
+  push:
+    branches: [ main, master ]
+  # Auto-trigger on PR
+  pull_request:
+    branches: [ main, master ]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install pytest pytest-xdist allure-pytest
+
+      - name: Install Playwright
+        if: github.event.inputs.test_type == 'ui' || github.event.inputs.test_type == 'all' || github.event_name != 'workflow_dispatch'
+        run: |
+          pip install pytest-playwright
+          playwright install chromium
+
+      - name: Run API Tests
+        if: github.event.inputs.test_type == 'api' || github.event.inputs.test_type == 'all' || github.event_name != 'workflow_dispatch'
+        run: |
+          python -m pytest tests/api -n ${{ github.event.inputs.parallel_workers || '4' }} --alluredir=reports/allure-results/api --tb=short
+        continue-on-error: true
+
+      - name: Run UI Tests
+        if: github.event.inputs.test_type == 'ui' || github.event.inputs.test_type == 'all' || github.event_name != 'workflow_dispatch'
+        run: |
+          python -m pytest tests/ui -n ${{ github.event.inputs.parallel_workers || '4' }} --alluredir=reports/allure-results/ui --tb=short
+        continue-on-error: true
+
+      - name: Upload Allure Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          path: reports/allure-results
+          retention-days: 7
+
+  generate-report:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download Allure Results
+        uses: actions/download-artifact@v4
+        with:
+          name: allure-results
+          path: reports/allure-results
+
+      - name: Merge API and UI Results
+        run: |
+          mkdir -p reports/allure-results-merged
+          if [ -d "reports/allure-results/api" ]; then
+            cp -r reports/allure-results/api/* reports/allure-results-merged/ 2>/dev/null || true
+          fi
+          if [ -d "reports/allure-results/ui" ]; then
+            cp -r reports/allure-results/ui/* reports/allure-results-merged/ 2>/dev/null || true
+          fi
+          ls -la reports/allure-results-merged/
+
+      - name: Get Allure history
+        uses: actions/checkout@v4
+        if: always()
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
+
+      - name: Build Allure Report
+        uses: simple-elf/allure-report-action@master
+        if: always()
+        id: allure-report
+        with:
+          allure_results: reports/allure-results-merged
+          allure_history: gh-pages/allure-history
+          keep_reports: 20
+
+      - name: Upload Report Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-report
+          path: allure-report
+          retention-days: 7
+
+      - name: Deploy to GitHub Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: allure-report
+          destination_dir: allure-history
+
+  notify:
+    needs: [test, generate-report]
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - name: Report Link
+        run: |
+          echo "✅ Tests completed!"
+          echo "📊 Allure Report: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/allure-history/"
+          echo ""
+          echo "Test Results Summary:"
+          echo "- API Tests: ${{ needs.test.result }}"
+          echo "- Report Generation: ${{ needs.generate-report.result }}"
