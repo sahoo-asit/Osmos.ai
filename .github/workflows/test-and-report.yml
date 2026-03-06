@@ -187,3 +187,5 @@ jobs:
           echo "- API Tests: ${{ needs.generate-report.outputs.api_summary || 'n/a' }}"
           echo "- UI Tests: ${{ needs.generate-report.outputs.ui_summary || 'n/a' }}"
           echo "- Report Generation: ${{ needs.generate-report.result }}"
+          echo ""
+          echo "Note: These tests are designed by Asit Sahoo for educational purposes and are managed by Asit Sahoo."
