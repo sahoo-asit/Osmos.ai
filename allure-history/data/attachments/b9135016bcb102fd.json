@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 134.24,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Karen Allen",
+      "email": "testlead_20260306204008_kstd@testmail.com",
+      "phone": "+33 607-543-3902",
+      "company": "Singh Inc",
+      "jobTitle": "Museum education officer",
+      "industry": "Technology",
+      "source": "Trade Show",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 64916,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Author front speech know court say.",
+      "id": "22",
+      "createdAt": "2026-03-06T20:40:08.481Z",
+      "updatedAt": "2026-03-06T20:40:08.481Z"
+    }
+  }
+}

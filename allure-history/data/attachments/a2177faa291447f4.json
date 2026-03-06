@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 67.67,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Melissa Burke",
+      "email": "testlead_20260306204008_rhgx@testmail.com",
+      "phone": "+81 367-271-9197",
+      "company": "Mcgee Group",
+      "jobTitle": "Archaeologist",
+      "industry": "Retail",
+      "source": "Cold Call",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 149640,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Girl ok material sister film side.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:40:08.714Z",
+      "updatedAt": "2026-03-06T20:40:08.714Z"
+    }
+  }
+}

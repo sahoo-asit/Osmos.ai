@@ -1,3 +1,0 @@
-Expected: Alisha Martin
-Actual: Alisha Martin
-Status: ✓ PASS

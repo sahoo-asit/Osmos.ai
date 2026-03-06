@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Gene Rodgers",
+    "email": "testlead_20260306204008_arax@testmail.com",
+    "phone": "+61 535-734-9769",
+    "company": "Smith-Thompson",
+    "jobTitle": "Medical laboratory scientific officer",
+    "industry": "Retail",
+    "source": "Trade Show",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 47853,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Company budget case north both account certainly."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 146.34,
+  "body": {
+    "success": false,
+    "error": "Validation failed",
+    "errors": [
+      {
+        "field": "email",
+        "message": "Email must be a valid email format"
+      }
+    ]
+  }
+}

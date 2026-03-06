@@ -1,0 +1,18 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Cynthia Riggs",
+    "email": "testlead_20260306204007_tvnp@testmail.com",
+    "isQualified": true,
+    "emailOptIn": false
+  }
+}

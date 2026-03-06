@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 113.78,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Laurie Marshall",
+      "email": "testlead_20260306204008_kxgd@testmail.com",
+      "phone": "+44 757-692-6110",
+      "company": "Roberts-Perry",
+      "jobTitle": "Chief Executive Officer",
+      "industry": "Finance",
+      "source": "Trade Show",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 149103,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Speak wall never model wait.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:40:08.973Z",
+      "updatedAt": "2026-03-06T20:40:08.973Z"
+    }
+  }
+}

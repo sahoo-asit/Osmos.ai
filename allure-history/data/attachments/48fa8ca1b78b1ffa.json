@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jamie Lawrence",
+    "email": "not-an-email",
+    "phone": "+49 446-623-9707",
+    "company": "Zimmerman-Nichols",
+    "jobTitle": "Building control surveyor",
+    "industry": "Finance",
+    "source": "Email Campaign",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 77339,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Role become behind middle establish door."
+  }
+}

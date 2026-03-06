@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 73.93,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Julie Smith",
+      "email": "testlead_20260306204008_xvgs@testmail.com",
+      "phone": "+91 978-245-9789",
+      "company": "Brewer and Sons",
+      "jobTitle": "Advertising account planner",
+      "industry": "Education",
+      "source": "LinkedIn",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 124376,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Say watch store health.",
+      "id": "22",
+      "createdAt": "2026-03-06T20:40:08.271Z",
+      "updatedAt": "2026-03-06T20:40:08.271Z"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 36.08,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jon Sloan",
+      "email": "testlead_20260306204008_zzvn@testmail.com",
+      "phone": "+49 937-447-3637",
+      "company": "Gardner Ltd",
+      "jobTitle": "Actuary",
+      "industry": "Healthcare",
+      "source": "Cold Call",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 50270,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Put we civil later something foot.",
+      "id": "25",
+      "createdAt": "2026-03-06T20:40:08.819Z",
+      "updatedAt": "2026-03-06T20:40:08.865Z"
+    }
+  }
+}

@@ -1,4 +1,0 @@
-Check: Lead 23 status
-Expected: New
-Actual: New
-Status: ✓ PASS

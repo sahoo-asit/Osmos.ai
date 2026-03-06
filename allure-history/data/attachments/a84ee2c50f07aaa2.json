@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 684.27,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Felicia Garcia",
+      "email": "testlead_20260306204007_equi@testmail.com",
+      "phone": "+44 698-869-4385",
+      "company": "Rivera, York and Williams",
+      "jobTitle": "Broadcast journalist",
+      "industry": "Finance",
+      "source": "Trade Show",
+      "priority": "Critical",
+      "status": "Lost",
+      "dealValue": 115858,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Few civil answer end whatever.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:40:08.195Z",
+      "updatedAt": "2026-03-06T20:40:08.197Z"
+    }
+  }
+}

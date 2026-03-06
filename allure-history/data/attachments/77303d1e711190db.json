@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 48.71,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Mr. Alexander Bernard",
+      "email": "testlead_20260306204009_mnpj@testmail.com",
+      "phone": "+33 841-201-6732",
+      "company": "Lowery-Hawkins",
+      "jobTitle": "Museum/gallery exhibitions officer",
+      "industry": "Education",
+      "source": "Cold Call",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 194521,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Television really situation pattern.",
+      "id": "27",
+      "createdAt": "2026-03-06T20:40:09.151Z",
+      "updatedAt": "2026-03-06T20:40:09.151Z"
+    }
+  }
+}

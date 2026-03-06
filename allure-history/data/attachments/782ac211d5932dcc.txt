@@ -1,4 +1,0 @@
-Check: Name matches
-Expected: Catherine Edwards
-Actual: Catherine Edwards
-Status: ✓ PASS

@@ -1,0 +1,4 @@
+Check: Field: email
+Expected: testlead_20260306204008_omqo@testmail.com
+Actual: testlead_20260306204008_omqo@testmail.com
+Status: ✓ PASS

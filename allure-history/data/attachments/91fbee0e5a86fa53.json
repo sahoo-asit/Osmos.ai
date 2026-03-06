@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 90.54,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Eric Kline",
+      "email": "testlead_20260306204008_xtqu@testmail.com",
+      "phone": "+1 949-606-4144",
+      "company": "Sullivan, Salinas and Harrell",
+      "jobTitle": "Company secretary",
+      "industry": "Other",
+      "source": "LinkedIn",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 192639,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Stand everybody mean country activity send.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:40:08.341Z",
+      "updatedAt": "2026-03-06T20:40:08.341Z"
+    }
+  }
+}

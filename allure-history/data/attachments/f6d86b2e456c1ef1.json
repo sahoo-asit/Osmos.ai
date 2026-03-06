@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 183.83,
+  "body": {
+    "success": true,
+    "token": "Bearer_ADMIN_TEST_TOKEN_12345",
+    "email": "admin@company.com",
+    "role": "admin"
+  }
+}

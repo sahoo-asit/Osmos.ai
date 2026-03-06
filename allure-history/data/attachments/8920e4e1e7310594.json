@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 81.99,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Lisa Reyes",
+      "email": "testlead_20260306204007_vool@testmail.com",
+      "phone": "+81 351-798-8389",
+      "company": "Rodriguez Group",
+      "jobTitle": "Designer, ceramics/pottery",
+      "industry": "Other",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 176200,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Until process firm.",
+      "id": "43",
+      "createdAt": "2026-03-06T20:40:07.848Z",
+      "updatedAt": "2026-03-06T20:40:07.848Z"
+    }
+  }
+}

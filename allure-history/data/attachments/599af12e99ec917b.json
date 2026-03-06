@@ -1,0 +1,15 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 45.82,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Andrew Holland",
+      "email": "testlead_20260306204008_vxdt@testmail.com",
+      "company": "Test\u0000Company",
+      "id": "26",
+      "createdAt": "2026-03-06T20:40:08.715Z",
+      "updatedAt": "2026-03-06T20:40:08.715Z"
+    }
+  }
+}

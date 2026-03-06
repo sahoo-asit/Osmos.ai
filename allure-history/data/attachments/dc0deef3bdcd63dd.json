@@ -1,1 +1,0 @@
-{'name': 'Test Lead Validation', 'email': 'testlead_20260306202639_nnbv@testmail.com', 'phone': '+49 828-536-9055', 'company': 'TestCorp', 'jobTitle': 'Test Manager', 'industry': 'Technology', 'source': 'Website', 'priority': 'High', 'status': 'New', 'dealValue': 50000, 'isQualified': True, 'emailOptIn': False, 'notes': 'Detailed validation test'}

@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 79.64,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Cynthia Riggs",
+      "email": "testlead_20260306204007_tvnp@testmail.com",
+      "isQualified": true,
+      "emailOptIn": false,
+      "id": "45",
+      "createdAt": "2026-03-06T20:40:08.002Z",
+      "updatedAt": "2026-03-06T20:40:08.002Z"
+    }
+  }
+}

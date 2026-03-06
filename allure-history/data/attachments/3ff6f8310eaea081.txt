@@ -1,0 +1,4 @@
+tests/ui/test_leads_listing_ui.py:633: in test_login_create_lead_and_verify_in_list
+    assert found, f"Lead '{lead_data['name']}' found in table — Expected: True, Actual: {found}"
+E   AssertionError: Lead 'Jennifer Clark' found in table — Expected: True, Actual: False
+E   assert False

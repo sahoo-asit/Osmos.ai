@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 59.21,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Test Lead Validation",
+      "email": "testlead_20260306204008_hmge@testmail.com",
+      "phone": "+91 744-724-4172",
+      "company": "TestCorp",
+      "jobTitle": "Test Manager",
+      "industry": "Technology",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 50000,
+      "isQualified": true,
+      "emailOptIn": false,
+      "notes": "Detailed validation test",
+      "id": "25",
+      "createdAt": "2026-03-06T20:40:08.556Z",
+      "updatedAt": "2026-03-06T20:40:08.556Z"
+    }
+  }
+}

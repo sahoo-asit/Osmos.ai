@@ -1,0 +1,14 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 141.52,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "\u7530\u4e2d\u592a\u90ce",
+      "email": "testlead_20260306204008_bcje@testmail.com",
+      "id": "23",
+      "createdAt": "2026-03-06T20:40:08.482Z",
+      "updatedAt": "2026-03-06T20:40:08.482Z"
+    }
+  }
+}

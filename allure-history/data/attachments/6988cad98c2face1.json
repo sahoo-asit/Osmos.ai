@@ -1,0 +1,14 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 138.48,
+  "body": {
+    "success": false,
+    "error": "Validation failed",
+    "errors": [
+      {
+        "field": "status",
+        "message": "Status must be one of: New, Contacted, Qualified, Lost"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 64.17,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Cynthia Ward",
+      "email": "testlead_20260306204008_dces@testmail.com",
+      "phone": "+44 733-566-6817",
+      "company": "Solis Group",
+      "jobTitle": "Forensic psychologist",
+      "industry": "Retail",
+      "source": "Trade Show",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 81670,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Soon state chair serious why right fund.",
+      "id": "26",
+      "createdAt": "2026-03-06T20:40:08.883Z",
+      "updatedAt": "2026-03-06T20:40:08.883Z"
+    }
+  }
+}

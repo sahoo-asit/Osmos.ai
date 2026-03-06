@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jessica Woods",
+    "email": "testlead_20260306204007_jbvj@testmail.com",
+    "phone": "+91 611-214-1575",
+    "company": "Smith, Hall and Smith",
+    "jobTitle": "Make",
+    "industry": "Healthcare",
+    "source": "Website",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 153941,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Yard leg everything."
+  }
+}

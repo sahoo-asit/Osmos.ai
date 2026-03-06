@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Amanda Carpenter",
+    "email": "testlead_20260306204008_pusd@testmail.com",
+    "phone": "+33 997-879-6811",
+    "company": "Guzman, Melendez and Perry",
+    "jobTitle": "Waste management officer",
+    "industry": "Healthcare",
+    "source": "Cold Call",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 84775,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Pattern base church big protect cover answer."
+  }
+}

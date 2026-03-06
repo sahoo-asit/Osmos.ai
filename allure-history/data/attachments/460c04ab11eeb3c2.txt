@@ -1,2 +1,0 @@
-name=Michael Stewart
-email=testlead_20260306202711_nehf@testmail.com

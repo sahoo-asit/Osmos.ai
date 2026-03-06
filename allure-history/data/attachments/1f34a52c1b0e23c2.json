@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 145.96,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Amanda Carpenter",
+      "email": "testlead_20260306204008_pusd@testmail.com",
+      "phone": "+33 997-879-6811",
+      "company": "Guzman, Melendez and Perry",
+      "jobTitle": "Waste management officer",
+      "industry": "Healthcare",
+      "source": "Cold Call",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 84775,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Pattern base church big protect cover answer.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:40:08.340Z",
+      "updatedAt": "2026-03-06T20:40:08.340Z"
+    }
+  }
+}

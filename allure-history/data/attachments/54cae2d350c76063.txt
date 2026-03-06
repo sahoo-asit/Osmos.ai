@@ -1,4 +1,0 @@
-Check: Name matches
-Expected: Whitney Cardenas
-Actual: Whitney Cardenas
-Status: ✓ PASS

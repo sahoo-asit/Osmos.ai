@@ -1,0 +1,11 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 33.64,
+  "body": {
+    "success": true,
+    "leads": [],
+    "total": 0,
+    "page": 1,
+    "pageSize": 10
+  }
+}

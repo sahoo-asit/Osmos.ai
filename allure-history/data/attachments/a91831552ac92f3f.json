@@ -1,0 +1,93 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 79.44,
+  "body": {
+    "success": true,
+    "leads": [
+      {
+        "name": "Shannon Gordon",
+        "email": "testlead_20260306204008_ddel@testmail.com",
+        "phone": "+33 763-853-3262",
+        "company": "Golden-Hull",
+        "jobTitle": "Senior tax professional/tax inspector",
+        "industry": "Other",
+        "source": "Trade Show",
+        "priority": "High",
+        "status": "Contacted",
+        "dealValue": 73066,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Later door police point last summer with.",
+        "id": "25",
+        "createdAt": "2026-03-06T20:40:08.827Z",
+        "updatedAt": "2026-03-06T20:40:08.854Z"
+      },
+      {
+        "name": "Thomas Whitehead",
+        "email": "testlead_20260306204008_xidb@testmail.com",
+        "phone": "+49 554-695-9679",
+        "company": "Martinez, Flynn and Dickson",
+        "jobTitle": "Diagnostic radiographer",
+        "industry": "Education",
+        "source": "Website",
+        "priority": "Medium",
+        "status": "New",
+        "dealValue": 56640,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Station team music ten add by business.",
+        "id": "24",
+        "createdAt": "2026-03-06T20:40:08.810Z",
+        "updatedAt": "2026-03-06T20:40:08.810Z"
+      },
+      {
+        "name": "Melissa Burke",
+        "email": "updated_testlead_20260306204008_rhgx@testmail.com",
+        "id": "23",
+        "createdAt": "2026-03-06T20:40:08.638Z",
+        "updatedAt": "2026-03-06T20:40:08.767Z",
+        "priority": "Low",
+        "status": "New"
+      },
+      {
+        "name": "Kenneth Jones",
+        "email": "testlead_20260306204008_ubxd@testmail.com",
+        "phone": "+61 989-966-1809",
+        "company": "Ruiz, Harper and Smith",
+        "jobTitle": "Automotive engineer",
+        "industry": "Finance",
+        "source": "Email Campaign",
+        "priority": "Medium",
+        "status": "New",
+        "dealValue": 110312,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Expect member sign party seat.",
+        "id": "22",
+        "createdAt": "2026-03-06T20:40:08.485Z",
+        "updatedAt": "2026-03-06T20:40:08.485Z"
+      },
+      {
+        "name": "Stephen Patel",
+        "email": "testlead_20260306204007_gyfe@testmail.com",
+        "phone": "+44 506-875-8651",
+        "company": "Smith Inc",
+        "jobTitle": "Pilot, airline",
+        "industry": "Technology",
+        "source": "LinkedIn",
+        "priority": "High",
+        "status": "New",
+        "dealValue": 110533,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Debate instead learn yet.",
+        "id": "21",
+        "createdAt": "2026-03-06T20:40:08.188Z",
+        "updatedAt": "2026-03-06T20:40:08.189Z"
+      }
+    ],
+    "total": 5,
+    "page": 1,
+    "pageSize": 10
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jonathan Allen",
+    "email": "testlead_20260306204007_ymmk@testmail.com",
+    "phone": "+91 588-836-1935",
+    "company": "Brown-Malone",
+    "jobTitle": "Contracting civil engineer",
+    "industry": "Other",
+    "source": "LinkedIn",
+    "priority": "High",
+    "status": "Qualified",
+    "dealValue": 147431,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Read husband sense buy."
+  }
+}

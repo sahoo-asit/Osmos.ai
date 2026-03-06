@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Julie Smith",
+    "email": "testlead_20260306204008_xvgs@testmail.com",
+    "phone": "+91 978-245-9789",
+    "company": "Brewer and Sons",
+    "jobTitle": "Advertising account planner",
+    "industry": "Education",
+    "source": "LinkedIn",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 124376,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Say watch store health."
+  }
+}

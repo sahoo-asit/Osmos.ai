@@ -1,0 +1,4 @@
+Check: Field: phone
+Expected: +49 953-390-7495
+Actual: +49 953-390-7495
+Status: ✓ PASS

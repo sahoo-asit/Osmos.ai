@@ -1,3 +1,0 @@
-Expected: False
-Actual: False
-Status: ✓ PASS

@@ -1,3 +1,0 @@
-Expected: True
-Actual: False
-Status: ✗ FAIL

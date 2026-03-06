@@ -1,0 +1,8 @@
+{
+  "status_code": 401,
+  "elapsed_ms": 75.63,
+  "body": {
+    "success": false,
+    "error": "Authorization header is required"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Stephen Patel",
+    "email": "testlead_20260306204007_gyfe@testmail.com",
+    "phone": "+44 506-875-8651",
+    "company": "Smith Inc",
+    "jobTitle": "Pilot, airline",
+    "industry": "Technology",
+    "source": "LinkedIn",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 110533,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Debate instead learn yet."
+  }
+}

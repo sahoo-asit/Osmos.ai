@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Andrew Kelly",
+    "email": "testlead_20260306204007_wqfk@testmail.com",
+    "phone": "+81 781-930-7579",
+    "company": "Richards, Hart and Holmes",
+    "jobTitle": "Manufacturing engineer",
+    "industry": "Other",
+    "source": "Cold Call",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 92133,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Raise the meet."
+  }
+}

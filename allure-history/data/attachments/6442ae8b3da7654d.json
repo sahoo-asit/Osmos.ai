@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jennifer Mendoza",
+    "email": "testlead_20260306204008_usnv@testmail.com",
+    "phone": "+1 695-717-1933",
+    "company": "Lee, Johnson and Martinez",
+    "jobTitle": "Communications engineer",
+    "industry": "Education",
+    "source": "Email Campaign",
+    "priority": "Medium",
+    "status": "Contacted",
+    "dealValue": 137033,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Tv couple positive reflect receive recognize."
+  }
+}

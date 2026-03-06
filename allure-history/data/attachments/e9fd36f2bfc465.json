@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 72.36,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jennifer Mendoza",
+      "email": "testlead_20260306204008_usnv@testmail.com",
+      "phone": "+1 695-717-1933",
+      "company": "Lee, Johnson and Martinez",
+      "jobTitle": "Communications engineer",
+      "industry": "Education",
+      "source": "Email Campaign",
+      "priority": "Medium",
+      "status": "Contacted",
+      "dealValue": 137033,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Tv couple positive reflect receive recognize.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:40:08.332Z",
+      "updatedAt": "2026-03-06T20:40:08.332Z"
+    }
+  }
+}

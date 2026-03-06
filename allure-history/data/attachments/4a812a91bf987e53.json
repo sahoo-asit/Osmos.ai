@@ -1,0 +1,16 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 49.74,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Melissa Burke",
+      "email": "updated_testlead_20260306204008_rhgx@testmail.com",
+      "id": "23",
+      "createdAt": "2026-03-06T20:40:08.638Z",
+      "updatedAt": "2026-03-06T20:40:08.767Z",
+      "priority": "Low",
+      "status": "New"
+    }
+  }
+}

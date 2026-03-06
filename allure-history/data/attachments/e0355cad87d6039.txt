@@ -1,4 +1,0 @@
-tests/ui/test_leads_listing_ui.py:678: in test_search_leads_by_name
-    assert match_found, f"Results should contain '{search_name}' — Actual: {filtered_names}"
-E   AssertionError: Results should contain 'Alisha Martin' — Actual: []
-E   assert False

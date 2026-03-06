@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "payload": {
+    "name": "James Sanchez",
+    "email": "testlead_20260306204008_lwda@testmail.com",
+    "phone": "+91 741-661-7829",
+    "company": "Robinson, Hull and Patrick",
+    "jobTitle": "Arts development officer",
+    "industry": "Technology",
+    "source": "Website",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 152200,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Television recently less level turn safe camera."
+  }
+}

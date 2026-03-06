@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 107.65,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Abigail Thomas",
+      "email": "testlead_20260306204008_eeoq@testmail.com",
+      "phone": "+44 949-332-8352",
+      "company": "Mclean Inc",
+      "jobTitle": "Bookseller",
+      "industry": "Retail",
+      "source": "Website",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 166106,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Energy than eye serious thank back.",
+      "id": "22",
+      "createdAt": "2026-03-06T20:40:08.246Z",
+      "updatedAt": "2026-03-06T20:40:08.246Z"
+    }
+  }
+}
