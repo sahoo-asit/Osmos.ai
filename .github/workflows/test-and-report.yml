@@ -101,6 +101,17 @@ jobs:
           fi
           ls -la reports/allure-results-merged/
 
+      - name: Add Owner Info to Allure Report
+        run: |
+          cat > reports/allure-results-merged/environment.properties << 'EOF'
+          Owner=Asit Sahoo
+          Contact=https://pm-asit-sahoo.github.io/asit-portfolio/
+          Mobile=9040293063
+          Purpose=Educational
+          Managed_By=Asit Sahoo
+          EOF
+          echo "Added owner info to Allure environment"
+
       - name: Get Allure history
         uses: actions/checkout@v4
         if: always()
@@ -132,26 +143,48 @@ jobs:
           python <<'PY'
           import json, glob, os
 
+          # Debug: list what's in the results directory
+          print("Looking for Allure result files...")
+          all_files = glob.glob('reports/allure-results-merged/**/*', recursive=True)
+          print(f"Found {len(all_files)} files in reports/allure-results-merged/")
+          
+          # List some result files
+          result_files = glob.glob('reports/allure-results-merged/*-result.json')
+          print(f"Found {len(result_files)} *-result.json files")
+          
           buckets = {
-              'api': {'passed': 0, 'failed': 0, 'broken': 0, 'skipped': 0},
-              'ui': {'passed': 0, 'failed': 0, 'broken': 0, 'skipped': 0},
+              'api': {'passed': 0, 'failed': 0, 'broken': 0, 'skipped': 0, 'total': 0},
+              'ui': {'passed': 0, 'failed': 0, 'broken': 0, 'skipped': 0, 'total': 0},
           }
 
           for path in glob.glob('reports/allure-results-merged/*-result.json'):
               with open(path, 'r') as f:
                   data = json.load(f)
               status = data.get('status', 'unknown')
-              full = data.get('fullName', '') + ' :: ' + data.get('name', '')
-              bucket = 'api' if 'tests/api/' in full else 'ui' if 'tests/ui/' in full else None
+              # Check multiple fields for test classification
+              full = data.get('fullName', '') + ' ' + data.get('name', '') + ' ' + str(data.get('labels', []))
+              bucket = 'api' if 'api' in full.lower() else 'ui' if 'ui' in full.lower() else None
+              if not bucket:
+                  # Try to determine from file path or parent directories
+                  if 'api' in path.lower():
+                      bucket = 'api'
+                  elif 'ui' in path.lower():
+                      bucket = 'ui'
               if not bucket:
                   continue
-              if status not in buckets[bucket]:
-                  buckets[bucket][status] = 0
-              buckets[bucket][status] += 1
+              buckets[bucket]['total'] += 1
+              if status in buckets[bucket]:
+                  buckets[bucket][status] += 1
+              else:
+                  print(f"Unknown status '{status}' for {path}")
 
           def fmt(b):
-              total = sum(b.values())
-              return f"{total} (passed={b.get('passed',0)}, failed={b.get('failed',0)}, broken={b.get('broken',0)}, skipped={b.get('skipped',0)})"
+              total = b['total']
+              passed = b.get('passed', 0)
+              failed = b.get('failed', 0)
+              broken = b.get('broken', 0)
+              skipped = b.get('skipped', 0)
+              return f"{total} total (passed={passed}, failed={failed}, broken={broken}, skipped={skipped})"
 
           api_summary = fmt(buckets['api'])
           ui_summary = fmt(buckets['ui'])
@@ -189,3 +222,4 @@ jobs:
           echo "- Report Generation: ${{ needs.generate-report.result }}"
           echo ""
           echo "Note: These tests are designed by Asit Sahoo for educational purposes and are managed by Asit Sahoo."
+          echo "Contact: https://pm-asit-sahoo.github.io/asit-portfolio/ | Mob: 9040293063"
