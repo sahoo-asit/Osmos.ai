@@ -58,8 +58,9 @@ class TestCreateLeadUI:
         
         # Wait for backend processing and refresh
         logger.step("Wait for lead to be saved")
-        page.wait_for_timeout(3000)
-        
+        page.wait_for_timeout(4000)
+        leads_page.wait_for_leads_page()
+
         # Verify - clear search and wait
         logger.step("Clear search and look for created lead")
         search_input = page.locator("input[placeholder*='Search']")
@@ -69,16 +70,18 @@ class TestCreateLeadUI:
             page.wait_for_timeout(1000)
         
         # Search for the lead
-        leads_page.search_leads(lead_data["name"])
-        page.wait_for_timeout(2000)
-        
-        found = leads_page.is_lead_in_table(name=lead_data["name"])
-        if not found:
-            # Retry search once
-            page.wait_for_timeout(2000)
+        found = False
+        for attempt in range(4):
             leads_page.search_leads(lead_data["name"])
+            page.wait_for_timeout(2500)
             found = leads_page.is_lead_in_table(name=lead_data["name"])
-        
+            if found:
+                break
+            # Retry with a light refresh to pick up eventual consistency
+            page.wait_for_timeout(1000)
+            page.reload(wait_until="networkidle")
+            leads_page.wait_for_leads_page()
+
         logger.verify("Lead appears in table", True, found, found)
         assert found, f"Lead {lead_data['name']} not found in table"
 

@@ -84,6 +84,7 @@ jobs:
 
   generate-report:
     needs: test
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - name: Download Allure Results
@@ -138,8 +139,8 @@ jobs:
 
   notify:
     needs: [test, generate-report]
-    runs-on: ubuntu-latest
     if: always()
+    runs-on: ubuntu-latest
     steps:
       - name: Report Link
         run: |
