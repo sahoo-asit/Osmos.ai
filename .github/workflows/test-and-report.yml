@@ -80,6 +80,9 @@ jobs:
     needs: test
     if: always()
     runs-on: ubuntu-latest
+    outputs:
+      api_summary: ${{ steps.counts.outputs.api_summary }}
+      ui_summary: ${{ steps.counts.outputs.ui_summary }}
     steps:
       - name: Download Allure Results
         uses: actions/download-artifact@v4
@@ -122,6 +125,45 @@ jobs:
           path: allure-report
           retention-days: 7
 
+      - name: Compute API/UI pass-fail counts
+        id: counts
+        if: always()
+        run: |
+          python <<'PY'
+          import json, glob, os
+
+          buckets = {
+              'api': {'passed': 0, 'failed': 0, 'broken': 0, 'skipped': 0},
+              'ui': {'passed': 0, 'failed': 0, 'broken': 0, 'skipped': 0},
+          }
+
+          for path in glob.glob('reports/allure-results-merged/*-result.json'):
+              with open(path, 'r') as f:
+                  data = json.load(f)
+              status = data.get('status', 'unknown')
+              full = data.get('fullName', '') + ' :: ' + data.get('name', '')
+              bucket = 'api' if 'tests/api/' in full else 'ui' if 'tests/ui/' in full else None
+              if not bucket:
+                  continue
+              if status not in buckets[bucket]:
+                  buckets[bucket][status] = 0
+              buckets[bucket][status] += 1
+
+          def fmt(b):
+              total = sum(b.values())
+              return f"{total} (passed={b.get('passed',0)}, failed={b.get('failed',0)}, broken={b.get('broken',0)}, skipped={b.get('skipped',0)})"
+
+          api_summary = fmt(buckets['api'])
+          ui_summary = fmt(buckets['ui'])
+
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              out.write(f"api_summary={api_summary}\n")
+              out.write(f"ui_summary={ui_summary}\n")
+
+          print(f"API: {api_summary}")
+          print(f"UI: {ui_summary}")
+          PY
+
       - name: Deploy to GitHub Pages
         if: always()
         uses: peaceiris/actions-gh-pages@v3
@@ -142,5 +184,6 @@ jobs:
           echo "📊 Allure Report: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/allure-history/"
           echo ""
           echo "Test Results Summary:"
-          echo "- API Tests: ${{ needs.test.result }}"
+          echo "- API Tests: ${{ needs.generate-report.outputs.api_summary || 'n/a' }}"
+          echo "- UI Tests: ${{ needs.generate-report.outputs.ui_summary || 'n/a' }}"
           echo "- Report Generation: ${{ needs.generate-report.result }}"
