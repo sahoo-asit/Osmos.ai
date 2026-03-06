@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Angela Harrison",
+    "email": "testlead_20260306202639_subt@testmail.com",
+    "phone": "+81 724-817-9338",
+    "company": "Brown-Collins",
+    "jobTitle": "Printmaker",
+    "industry": "Education",
+    "source": "LinkedIn",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 115519,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Action keep exist prevent quite."
+  }
+}

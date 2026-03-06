@@ -1,4 +1,0 @@
-Check: Lead 163 status
-Expected: Contacted
-Actual: Contacted
-Status: ✓ PASS

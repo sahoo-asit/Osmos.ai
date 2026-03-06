@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 634.37,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Gloria Rivera",
+      "email": "testlead_20260306202638_ioip@testmail.com",
+      "phone": "+44 901-553-8564",
+      "company": "Nelson, Stanton and Griffin",
+      "jobTitle": "Teacher, adult education",
+      "industry": "Finance",
+      "source": "LinkedIn",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 53808,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Allow down stuff road crime south eat discover.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:26:39.412Z",
+      "updatedAt": "2026-03-06T20:26:39.413Z"
+    }
+  }
+}

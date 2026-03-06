@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 49.63,
+  "body": {
+    "success": true,
+    "token": "Bearer_MANAGER_TEST_TOKEN_12345",
+    "email": "qa@company.com",
+    "role": "manager"
+  }
+}

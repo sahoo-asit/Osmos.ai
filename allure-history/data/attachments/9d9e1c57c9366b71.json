@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 123.3,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Catherine Edwards",
+      "email": "testlead_20260306202638_rjrz@testmail.com",
+      "phone": "+49 849-775-6843",
+      "company": "Copeland LLC",
+      "jobTitle": "Designer, blown glass/stained glass",
+      "industry": "Finance",
+      "source": "Cold Call",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 100108,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Social accept skin guy hard.",
+      "id": "169",
+      "createdAt": "2026-03-06T20:26:38.884Z",
+      "updatedAt": "2026-03-06T20:26:38.885Z"
+    }
+  }
+}

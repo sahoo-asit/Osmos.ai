@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Angela Henderson",
+    "email": "testlead_20260306202639_abld@testmail.com",
+    "phone": "+49 328-960-8664",
+    "company": "Clark, Herrera and Shaffer",
+    "jobTitle": "Surveyor, land/geomatics",
+    "industry": "Retail",
+    "source": "Cold Call",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 0,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Perhaps near fact American rock community behind perform."
+  }
+}

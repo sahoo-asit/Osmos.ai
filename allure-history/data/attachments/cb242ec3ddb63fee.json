@@ -1,8 +1,0 @@
-{
-  "status_code": 401,
-  "elapsed_ms": 98.23,
-  "body": {
-    "success": false,
-    "error": "Invalid credentials"
-  }
-}

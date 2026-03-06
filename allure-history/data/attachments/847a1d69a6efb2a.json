@@ -1,0 +1,14 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 86.27,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "../../../etc/passwd",
+      "email": "testlead_20260306202639_xfux@testmail.com",
+      "id": "24",
+      "createdAt": "2026-03-06T20:26:39.605Z",
+      "updatedAt": "2026-03-06T20:26:39.605Z"
+    }
+  }
+}

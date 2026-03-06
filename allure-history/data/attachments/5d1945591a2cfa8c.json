@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 82.91,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Dillon Miller",
+      "email": "testlead_20260306202638_hyuj@testmail.com",
+      "phone": "+1 886-432-9721",
+      "company": "Nunez, Peterson and Sanchez",
+      "jobTitle": "Diagnostic radiographer",
+      "industry": "Education",
+      "source": "Cold Call",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 149684,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Notice enjoy to note.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:26:39.059Z",
+      "updatedAt": "2026-03-06T20:26:39.059Z"
+    }
+  }
+}

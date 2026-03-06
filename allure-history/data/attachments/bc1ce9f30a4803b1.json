@@ -1,0 +1,25 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 59.11,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Margaret Ruiz",
+      "email": "updated_testlead_20260306202639_hogg@testmail.com",
+      "phone": "+44 590-898-5463",
+      "company": "Martin-Kerr",
+      "jobTitle": "Human resources officer",
+      "industry": "Technology",
+      "source": "Email Campaign",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 68754,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Prevent employee through play seem go help truth.",
+      "id": "24",
+      "createdAt": "2026-03-06T20:26:39.175Z",
+      "updatedAt": "2026-03-06T20:26:39.793Z"
+    }
+  }
+}

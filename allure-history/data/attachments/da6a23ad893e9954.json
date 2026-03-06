@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 79.14,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Anna Flores",
+      "email": "testlead_20260306202639_mtrj@testmail.com",
+      "isQualified": true,
+      "emailOptIn": false,
+      "id": "128",
+      "createdAt": "2026-03-06T20:26:39.344Z",
+      "updatedAt": "2026-03-06T20:26:39.344Z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "AB",
+    "email": "testlead_20260306202639_fnat@testmail.com",
+    "phone": "+49 783-930-3193",
+    "company": "Zimmerman-Mcdonald",
+    "jobTitle": "Microbiologist",
+    "industry": "Education",
+    "source": "Trade Show",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 16446,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Baby help allow language actually enough statement opportunity."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Brandi Wagner",
+    "email": "testlead_20260306202639_dfpn@testmail.com",
+    "phone": "+91 612-263-7770",
+    "company": "Savage, Hunt and Shea",
+    "jobTitle": "Estate manager/land agent",
+    "industry": "Healthcare",
+    "source": "Trade Show",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 178421,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Himself party gun apply skill clear."
+  }
+}

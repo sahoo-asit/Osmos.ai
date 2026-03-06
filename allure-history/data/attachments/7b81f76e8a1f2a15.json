@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 74.64,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Anthony Reese",
+      "email": "testlead_20260306202639_vinn@testmail.com",
+      "phone": "+61 901-210-9669",
+      "company": "Anderson, Stewart and Krause",
+      "jobTitle": "Information systems manager",
+      "industry": "Retail",
+      "source": "Email Campaign",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 47626,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Meet five health military they wide.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:26:39.566Z",
+      "updatedAt": "2026-03-06T20:26:39.566Z"
+    }
+  }
+}

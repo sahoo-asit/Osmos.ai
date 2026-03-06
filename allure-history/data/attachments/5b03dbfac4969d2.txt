@@ -1,4 +1,0 @@
-Check: Found leads
-Expected: ≥1
-Actual: 1
-Status: ✓ PASS

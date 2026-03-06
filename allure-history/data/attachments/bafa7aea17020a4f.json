@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 81.74,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "SearchTest_+33 6123441361",
+      "email": "testlead_20260306202639_vilq@testmail.com",
+      "phone": "+61 841-675-4972",
+      "company": "Harrell-Mitchell",
+      "jobTitle": "Dispensing optician",
+      "industry": "Other",
+      "source": "Trade Show",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 166758,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Realize still decade it.",
+      "id": "29",
+      "createdAt": "2026-03-06T20:26:39.940Z",
+      "updatedAt": "2026-03-06T20:26:39.940Z"
+    }
+  }
+}

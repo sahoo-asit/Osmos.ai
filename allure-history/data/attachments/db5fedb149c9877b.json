@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 74.22,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Alan Ayers",
+      "email": "testlead_20260306202639_jajb@testmail.com",
+      "phone": "+33 592-826-7756",
+      "company": "Ray and Sons",
+      "jobTitle": "Biochemist, clinical",
+      "industry": "Retail",
+      "source": "Email Campaign",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 16108,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Grow situation program story attorney here experience.",
+      "id": "32",
+      "createdAt": "2026-03-06T20:26:39.797Z",
+      "updatedAt": "2026-03-06T20:26:39.797Z"
+    }
+  }
+}

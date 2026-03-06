@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "John Reynolds",
+    "email": "testlead_20260306202639_vhzn@testmail.com",
+    "phone": "+44 997-850-3210",
+    "company": "Wheeler PLC",
+    "jobTitle": "Chemist, analytical",
+    "industry": "Education",
+    "source": "Referral",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 11999,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Yes money region eight debate so note."
+  }
+}

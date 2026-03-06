@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 73.47,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Emily Ramirez",
+      "email": "testlead_20260306202639_nnvh@testmail.com",
+      "phone": "+33 234-845-4054",
+      "company": "Perez, Peterson and Moreno",
+      "jobTitle": "Corporate treasurer",
+      "industry": "Finance",
+      "source": "Trade Show",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 74849,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Party party design she standard ready heart almost.",
+      "id": "24",
+      "createdAt": "2026-03-06T20:26:39.783Z",
+      "updatedAt": "2026-03-06T20:26:39.783Z"
+    }
+  }
+}

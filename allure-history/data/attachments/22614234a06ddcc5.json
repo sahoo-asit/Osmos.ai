@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "SearchTest_+33 6123441361",
+    "email": "testlead_20260306202639_vilq@testmail.com",
+    "phone": "+61 841-675-4972",
+    "company": "Harrell-Mitchell",
+    "jobTitle": "Dispensing optician",
+    "industry": "Other",
+    "source": "Trade Show",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 166758,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Realize still decade it."
+  }
+}

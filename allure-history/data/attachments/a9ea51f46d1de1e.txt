@@ -1,3 +1,0 @@
-Expected: ≥0 Qualified leads
-Actual: 7
-Status: ✓ PASS

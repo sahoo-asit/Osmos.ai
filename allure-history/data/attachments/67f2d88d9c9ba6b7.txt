@@ -1,0 +1,1 @@
+DELETE endpoint returned 404 - skipping test

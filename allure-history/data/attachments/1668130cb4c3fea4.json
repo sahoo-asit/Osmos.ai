@@ -1,8 +1,0 @@
-{
-  "status_code": 200,
-  "elapsed_ms": 100.53,
-  "body": {
-    "success": true,
-    "message": "Lead deleted successfully"
-  }
-}

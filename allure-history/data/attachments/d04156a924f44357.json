@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Margaret Ruiz",
+    "email": "testlead_20260306202639_hogg@testmail.com",
+    "phone": "+81 241-962-5041",
+    "company": "Wilson PLC",
+    "jobTitle": "Teacher, adult education",
+    "industry": "Finance",
+    "source": "Website",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 86712,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Teacher west goal never now nation summer."
+  }
+}

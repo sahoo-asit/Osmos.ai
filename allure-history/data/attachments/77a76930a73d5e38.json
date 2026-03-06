@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 80.62,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Mary Martin",
+      "email": "testlead_20260306202639_ztsw@testmail.com",
+      "phone": "+49 733-837-3853",
+      "company": "Gardner-Lewis",
+      "jobTitle": "Medical secretary",
+      "industry": "Technology",
+      "source": "Referral",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 89949,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Detail executive child you type.",
+      "id": "26",
+      "createdAt": "2026-03-06T20:26:39.925Z",
+      "updatedAt": "2026-03-06T20:26:39.925Z"
+    }
+  }
+}

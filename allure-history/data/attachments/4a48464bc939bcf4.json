@@ -1,0 +1,14 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 75.18,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "'; DROP TABLE leads; --",
+      "email": "testlead_20260306202639_gpix@testmail.com",
+      "id": "22",
+      "createdAt": "2026-03-06T20:26:39.448Z",
+      "updatedAt": "2026-03-06T20:26:39.448Z"
+    }
+  }
+}

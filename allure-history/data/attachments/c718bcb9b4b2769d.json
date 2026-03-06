@@ -1,0 +1,14 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 79.8,
+  "body": {
+    "success": false,
+    "error": "Validation failed",
+    "errors": [
+      {
+        "field": "priority",
+        "message": "Priority must be one of: Low, Medium, High, Critical"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 98.36,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Christopher Pittman",
+      "email": "testlead_20260306202639_zfum@testmail.com",
+      "isQualified": false,
+      "emailOptIn": false,
+      "id": "126",
+      "createdAt": "2026-03-06T20:26:39.168Z",
+      "updatedAt": "2026-03-06T20:26:39.168Z"
+    }
+  }
+}

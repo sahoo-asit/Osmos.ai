@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 90.9,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Kyle Keller",
+      "email": "testlead_20260306202638_tnoh@testmail.com",
+      "phone": "+1 916-673-8114",
+      "company": "Test Corporation",
+      "jobTitle": "Senior Manager",
+      "industry": "Technology",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 75000,
+      "isQualified": true,
+      "emailOptIn": true,
+      "notes": "Full field test lead",
+      "id": "21",
+      "createdAt": "2026-03-06T20:26:38.982Z",
+      "updatedAt": "2026-03-06T20:26:38.982Z"
+    }
+  }
+}

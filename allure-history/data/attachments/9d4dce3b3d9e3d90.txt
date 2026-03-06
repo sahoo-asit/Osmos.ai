@@ -1,4 +1,0 @@
-Check: Lead 96 status
-Expected: Contacted
-Actual: Contacted
-Status: ✓ PASS

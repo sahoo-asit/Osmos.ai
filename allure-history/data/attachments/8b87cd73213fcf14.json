@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 71.61,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Robert Livingston",
+      "email": "testlead_20260306202639_jdup@testmail.com",
+      "phone": "+49 235-761-1302",
+      "company": "Rodriguez LLC",
+      "jobTitle": "Tree surgeon",
+      "industry": "Education",
+      "source": "Website",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 145625,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Ask real for skill.",
+      "id": "29",
+      "createdAt": "2026-03-06T20:26:39.828Z",
+      "updatedAt": "2026-03-06T20:26:39.828Z"
+    }
+  }
+}

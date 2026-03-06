@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Christine Moore",
+    "email": "testlead_20260306202639_dcyi@testmail.com",
+    "phone": "+49 234-362-6480",
+    "company": "Peterson-Butler",
+    "jobTitle": "Insurance account manager",
+    "industry": "Manufacturing",
+    "source": "Cold Call",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 147573,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Plant against evidence certain."
+  }
+}

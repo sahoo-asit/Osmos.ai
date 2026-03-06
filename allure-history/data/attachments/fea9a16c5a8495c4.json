@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 83.56,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Gilbert Rodriguez",
+      "email": "testlead_20260306202638_tudj@testmail.com",
+      "phone": "+61 248-821-4415",
+      "company": "Acevedo PLC",
+      "jobTitle": "Scientist, physiological",
+      "industry": "Retail",
+      "source": "LinkedIn",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 149287,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Claim ground son.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:26:38.975Z",
+      "updatedAt": "2026-03-06T20:26:38.975Z"
+    }
+  }
+}

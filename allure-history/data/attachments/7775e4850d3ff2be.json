@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Robert Livingston",
+    "email": "testlead_20260306202639_jdup@testmail.com",
+    "phone": "+49 235-761-1302",
+    "company": "Rodriguez LLC",
+    "jobTitle": "Tree surgeon",
+    "industry": "Education",
+    "source": "Website",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 145625,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Ask real for skill."
+  }
+}

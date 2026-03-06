@@ -1,4 +1,0 @@
-Check: Lead 82 status
-Expected: Qualified
-Actual: Qualified
-Status: ✓ PASS

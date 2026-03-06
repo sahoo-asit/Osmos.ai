@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "A",
+    "email": "testlead_20260306202639_wpjb@testmail.com",
+    "phone": "+61 472-496-4488",
+    "company": "Smith, Mathews and Berg",
+    "jobTitle": "Loss adjuster, chartered",
+    "industry": "Finance",
+    "source": "Email Campaign",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 170468,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Into name force recognize see."
+  }
+}

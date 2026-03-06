@@ -1,4 +1,0 @@
-Check: Name matches
-Expected: Alexandra Hart
-Actual: Alexandra Hart
-Status: ✓ PASS

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 75.65,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Mitchell Smith",
+      "email": "testlead_20260306202639_ranl@testmail.com",
+      "phone": "+33 356-381-3149",
+      "company": "Nash, Perry and Mitchell",
+      "jobTitle": "Learning disability nurse",
+      "industry": "Healthcare",
+      "source": "Email Campaign",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 199216,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Phone hair pressure collection usually nothing response.",
+      "id": "22",
+      "createdAt": "2026-03-06T20:26:39.513Z",
+      "updatedAt": "2026-03-06T20:26:39.513Z"
+    }
+  }
+}

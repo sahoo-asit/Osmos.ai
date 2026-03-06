@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 101.26,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Mrs. Madison Thomas",
+      "email": "testlead_20260306202639_bfsb@testmail.com",
+      "phone": "+33 421-745-6822",
+      "company": "Parks PLC",
+      "jobTitle": "Insurance account manager",
+      "industry": "Other",
+      "source": "Website",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 149742,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Management painting see argue population radio participant.",
+      "id": "25",
+      "createdAt": "2026-03-06T20:26:39.170Z",
+      "updatedAt": "2026-03-06T20:26:39.170Z"
+    }
+  }
+}

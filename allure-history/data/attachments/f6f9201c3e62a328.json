@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 80.43,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Mark Miller",
+      "email": "testlead_20260306202638_yjnm@testmail.com",
+      "phone": "+44 312-316-5432",
+      "company": "Craig, Kelley and Jenkins",
+      "jobTitle": "Actuary",
+      "industry": "Finance",
+      "source": "Email Campaign",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 146388,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Operation much among thus mission over see.",
+      "id": "125",
+      "createdAt": "2026-03-06T20:26:38.974Z",
+      "updatedAt": "2026-03-06T20:26:38.974Z"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Check: Lead 1 status
+Expected: New
+Actual: New
+Status: ✓ PASS

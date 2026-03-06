@@ -1,4 +1,0 @@
-Check: Status Code
-Expected: 200, 204, or 404
-Actual: 404
-Status: ✓ PASS

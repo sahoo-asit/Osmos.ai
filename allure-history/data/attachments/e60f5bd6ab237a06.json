@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 731.41,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jeremy Fields",
+      "email": "testlead_20260306202638_pdws@testmail.com",
+      "phone": "+61 641-427-2435",
+      "company": "Elliott, Tucker and Nunez",
+      "jobTitle": "Psychologist, educational",
+      "industry": "Education",
+      "source": "LinkedIn",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 110686,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Someone night although catch glass.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:26:39.470Z",
+      "updatedAt": "2026-03-06T20:26:39.472Z"
+    }
+  }
+}

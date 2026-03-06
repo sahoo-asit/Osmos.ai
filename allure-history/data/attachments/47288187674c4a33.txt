@@ -1,3 +1,0 @@
-Expected: Sheila Reyes
-Actual: Sheila Reyes
-Status: ✓ PASS

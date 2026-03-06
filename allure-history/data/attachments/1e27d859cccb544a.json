@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 79.2,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Angela Ware",
+      "email": "testlead_20260306202639_tbyn@testmail.com",
+      "phone": "+1 303-274-7029",
+      "company": "Perkins-Smith",
+      "jobTitle": "Herpetologist",
+      "industry": "Retail",
+      "source": "LinkedIn",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 95584,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Tv really choose particularly guy represent charge.",
+      "id": "25",
+      "createdAt": "2026-03-06T20:26:39.783Z",
+      "updatedAt": "2026-03-06T20:26:39.783Z"
+    }
+  }
+}

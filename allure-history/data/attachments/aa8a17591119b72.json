@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 78.71,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Robert Mills",
+      "email": "testlead_20260306202638_rexn@testmail.com",
+      "phone": "+91 706-876-9109",
+      "company": "Underwood-Watson",
+      "jobTitle": "Optician, dispensing",
+      "industry": "Education",
+      "source": "Trade Show",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 190335,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Laugh happy often buy.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:26:39.059Z",
+      "updatedAt": "2026-03-06T20:26:39.059Z"
+    }
+  }
+}

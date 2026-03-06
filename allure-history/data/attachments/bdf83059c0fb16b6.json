@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 104.52,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Kristin Bryan",
+      "email": "testlead_20260306202639_evtk@testmail.com",
+      "phone": "+44 590-898-5463",
+      "company": "Martin-Kerr",
+      "jobTitle": "Human resources officer",
+      "industry": "Technology",
+      "source": "Email Campaign",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 68754,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Prevent employee through play seem go help truth.",
+      "id": "24",
+      "createdAt": "2026-03-06T20:26:39.175Z",
+      "updatedAt": "2026-03-06T20:26:39.175Z"
+    }
+  }
+}

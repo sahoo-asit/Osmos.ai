@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Kenneth Allen",
+    "email": "testlead_20260306202639_mbxl@testmail.com",
+    "phone": "+44 215-952-7359",
+    "company": "Oneal Group",
+    "jobTitle": "Pharmacologist",
+    "industry": "Education",
+    "source": "Email Campaign",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 179792,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Tonight turn professor."
+  }
+}

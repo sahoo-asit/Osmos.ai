@@ -1,4 +1,0 @@
-Check: Lead 22 status
-Expected: Qualified
-Actual: Qualified
-Status: ✓ PASS

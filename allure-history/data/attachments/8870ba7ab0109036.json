@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 112.44,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Brian Ayala",
+      "email": "testlead_20260306202639_ephr@testmail.com",
+      "phone": "+91 697-295-7852",
+      "company": "Martinez LLC",
+      "jobTitle": "Automotive engineer",
+      "industry": "Other",
+      "source": "Website",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 151426,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Know size manage else.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:26:39.734Z",
+      "updatedAt": "2026-03-06T20:26:39.734Z"
+    }
+  }
+}

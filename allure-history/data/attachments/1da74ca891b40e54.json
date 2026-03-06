@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Donald White",
+    "email": "testlead_20260306202638_yvsp@testmail.com",
+    "phone": "+49 256-968-4014",
+    "company": "Roman, Cooke and Davis",
+    "jobTitle": "Therapist, horticultural",
+    "industry": "Technology",
+    "source": "Website",
+    "priority": "Critical",
+    "status": "Qualified",
+    "dealValue": 25599,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Partner enter modern card relate perform."
+  }
+}

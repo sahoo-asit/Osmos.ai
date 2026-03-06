@@ -1,0 +1,25 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 57.26,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "John Reynolds",
+      "email": "testlead_20260306202639_vhzn@testmail.com",
+      "phone": "+44 997-850-3210",
+      "company": "Wheeler PLC",
+      "jobTitle": "Chemist, analytical",
+      "industry": "Education",
+      "source": "Referral",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 11999,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Yes money region eight debate so note.",
+      "id": "25",
+      "createdAt": "2026-03-06T20:26:39.766Z",
+      "updatedAt": "2026-03-06T20:26:39.766Z"
+    }
+  }
+}

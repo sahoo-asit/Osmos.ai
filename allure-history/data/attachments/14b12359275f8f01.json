@@ -1,0 +1,14 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 104.24,
+  "body": {
+    "success": false,
+    "error": "Validation failed",
+    "errors": [
+      {
+        "field": "dealValue",
+        "message": "Deal value must not exceed 999,999,999"
+      }
+    ]
+  }
+}

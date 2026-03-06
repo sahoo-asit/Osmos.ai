@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Test Lead Validation",
+    "email": "testlead_20260306202639_nnbv@testmail.com",
+    "phone": "+49 828-536-9055",
+    "company": "TestCorp",
+    "jobTitle": "Test Manager",
+    "industry": "Technology",
+    "source": "Website",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 50000,
+    "isQualified": true,
+    "emailOptIn": false,
+    "notes": "Detailed validation test"
+  }
+}

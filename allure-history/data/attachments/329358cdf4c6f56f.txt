@@ -1,4 +1,0 @@
-Check: Lead 152 status
-Expected: Contacted
-Actual: Contacted
-Status: ✓ PASS

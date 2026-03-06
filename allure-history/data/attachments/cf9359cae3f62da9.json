@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Bradley Maddox",
+    "email": "testlead_20260306202639_thzu@testmail.com",
+    "phone": "+33 971-333-2028",
+    "company": "Branch-Mccarty",
+    "jobTitle": "Veterinary surgeon",
+    "industry": "Retail",
+    "source": "LinkedIn",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 999999999999,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Assume want suffer reduce fact miss."
+  }
+}

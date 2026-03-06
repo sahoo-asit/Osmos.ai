@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "payload": {
+    "name": "Wendy Jones",
+    "email": "testlead_20260306202639_opkg@testmail.com",
+    "phone": "+49 310-380-4622",
+    "company": "Wright Ltd",
+    "jobTitle": "Occupational hygienist",
+    "industry": "Education",
+    "source": "Referral",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 141531,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "After leave yeah thing."
+  }
+}

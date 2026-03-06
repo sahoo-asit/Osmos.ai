@@ -1,3 +1,0 @@
-Expected: Lead 'Sheila Reyes' found in table
-Actual: Found: True
-Status: ✓ PASS

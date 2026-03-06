@@ -1,0 +1,15 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 78.29,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Ryan Long",
+      "email": "testlead_20260306202639_xqul@testmail.com",
+      "notes": "${7*7} {{constructor.constructor('return this')()}}",
+      "id": "22",
+      "createdAt": "2026-03-06T20:26:39.508Z",
+      "updatedAt": "2026-03-06T20:26:39.508Z"
+    }
+  }
+}
