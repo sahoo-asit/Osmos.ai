@@ -1,0 +1,4 @@
+Check: emailOptIn
+Expected: True
+Actual: True
+Status: ✓ PASS

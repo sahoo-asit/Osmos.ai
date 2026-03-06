@@ -1,0 +1,4 @@
+Check: Has 'token' field
+Expected: True
+Actual: True
+Status: ✓ PASS

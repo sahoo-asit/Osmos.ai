@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 152.56,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Nicole Young",
+      "email": "testlead_20260306201935_ovao@testmail.com",
+      "phone": "+61 215-440-9960",
+      "company": "Scott-Smith",
+      "jobTitle": "Aid worker",
+      "industry": "Technology",
+      "source": "Trade Show",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 143750,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Win company scientist official consider.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:19:35.373Z",
+      "updatedAt": "2026-03-06T20:19:35.373Z"
+    }
+  }
+}

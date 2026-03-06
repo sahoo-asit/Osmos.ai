@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Krystal Rodriguez",
+    "email": "testlead_20260306201935_hatb@testmail.com",
+    "phone": "+49 836-695-3688",
+    "company": "Allen, Mullen and Noble",
+    "jobTitle": "Petroleum engineer",
+    "industry": "Retail",
+    "source": "Cold Call",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 191329,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Likely everyone material anyone down imagine case."
+  }
+}

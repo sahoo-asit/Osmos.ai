@@ -1,0 +1,4 @@
+Check: HTTP Status Code
+Expected: 201
+Actual: 201
+Status: ✓ PASS

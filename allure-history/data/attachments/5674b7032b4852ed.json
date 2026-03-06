@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 147.37,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Benjamin Lee",
+      "email": "testlead_20260306201935_dpoa@testmail.com",
+      "phone": "+33 248-641-9403",
+      "company": "Martin Ltd",
+      "jobTitle": "Pathologist",
+      "industry": "Technology",
+      "source": "Cold Call",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 186633,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Friend study region head.",
+      "id": "164",
+      "createdAt": "2026-03-06T20:19:35.746Z",
+      "updatedAt": "2026-03-06T20:19:35.746Z"
+    }
+  }
+}

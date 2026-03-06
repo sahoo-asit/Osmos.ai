@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 173.71,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Dr. Bruce Miller",
+      "email": "testlead_20260306201934_ksxz@testmail.com",
+      "phone": "+1 768-629-6221",
+      "company": "Austin-Anderson",
+      "jobTitle": "Programmer, applications",
+      "industry": "Technology",
+      "source": "Email Campaign",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 127112,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Three score account point continue.",
+      "id": "54",
+      "createdAt": "2026-03-06T20:19:34.602Z",
+      "updatedAt": "2026-03-06T20:19:34.602Z"
+    }
+  }
+}

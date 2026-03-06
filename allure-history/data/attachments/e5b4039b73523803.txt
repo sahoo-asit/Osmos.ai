@@ -1,0 +1,4 @@
+Check: Error mentions authorization/token
+Expected: Contains 'authorization' or 'token'
+Actual: Error: Authorization header is required
+Status: ✓ PASS

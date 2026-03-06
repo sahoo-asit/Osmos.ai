@@ -1,0 +1,4 @@
+Check: Field: Priority
+Expected: High
+Actual: High
+Status: ✓ PASS

@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jeffrey Crawford",
+    "email": "testlead_20260306201935_ulwa@testmail.com",
+    "phone": "+33 776-880-4077",
+    "company": "Smith, Wang and Davis",
+    "jobTitle": "Hospital pharmacist",
+    "industry": "Finance",
+    "source": "Email Campaign",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 174572,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Party place keep education board across."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 138.56,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Daniel Lewis",
+      "email": "testlead_20260306201934_aszk@testmail.com",
+      "phone": "+49 915-577-6931",
+      "company": "Mcdonald-Williams",
+      "jobTitle": "Editor, film/video",
+      "industry": "Other",
+      "source": "Trade Show",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 164379,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Worry oil raise attack.",
+      "id": "155",
+      "createdAt": "2026-03-06T20:19:34.836Z",
+      "updatedAt": "2026-03-06T20:19:34.836Z"
+    }
+  }
+}

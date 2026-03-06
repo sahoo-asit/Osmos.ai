@@ -1,0 +1,3 @@
+Expected: /leads in URL
+Actual: https://v0-lead-manager-app.vercel.app/leads
+Status: ✓ PASS

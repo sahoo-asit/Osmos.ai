@@ -1,0 +1,4 @@
+Check: Industry
+Expected: Manufacturing
+Actual: Manufacturing
+Status: ✓ PASS

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 145.08,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Test Lead Validation",
+      "email": "testlead_20260306201935_hhdg@testmail.com",
+      "phone": "+61 233-200-8220",
+      "company": "TestCorp",
+      "jobTitle": "Test Manager",
+      "industry": "Technology",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 50000,
+      "isQualified": true,
+      "emailOptIn": false,
+      "notes": "Detailed validation test",
+      "id": "121",
+      "createdAt": "2026-03-06T20:19:35.485Z",
+      "updatedAt": "2026-03-06T20:19:35.485Z"
+    }
+  }
+}

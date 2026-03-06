@@ -1,0 +1,3 @@
+Expected: Error message visible
+Actual: Error displayed: True
+Status: ✓ PASS

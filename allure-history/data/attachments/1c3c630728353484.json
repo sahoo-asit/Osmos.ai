@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Lori Torres",
+    "email": "testlead_20260306201935_xjco@testmail.com",
+    "phone": "+61 233-513-7144",
+    "company": "Walters Inc",
+    "jobTitle": "Personal assistant",
+    "industry": "Education",
+    "source": "Referral",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 198121,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Peace significant remember million American miss act."
+  }
+}

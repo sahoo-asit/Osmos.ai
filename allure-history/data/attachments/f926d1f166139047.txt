@@ -1,0 +1,4 @@
+Check: User email matches
+Expected: admin@company.com
+Actual: admin@company.com
+Status: ✓ PASS

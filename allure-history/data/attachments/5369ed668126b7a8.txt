@@ -1,0 +1,4 @@
+Check: Token present
+Expected: Non-empty
+Actual: True
+Status: ✓ PASS

@@ -1,0 +1,16 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/login",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "email": "\u7528\u6237@\u516c\u53f8.com",
+    "password": "\u5bc6\u7801123"
+  }
+}

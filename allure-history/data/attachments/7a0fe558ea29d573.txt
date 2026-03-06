@@ -1,0 +1,4 @@
+Check: Email matches
+Expected: qa@company.com
+Actual: qa@company.com
+Status: ✓ PASS

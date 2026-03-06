@@ -1,0 +1,4 @@
+Check: Industry
+Expected: Education
+Actual: Education
+Status: ✓ PASS

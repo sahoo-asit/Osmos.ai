@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 158.34,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Kimberly Berry",
+      "email": "testlead_20260306201934_krzr@testmail.com",
+      "phone": "+1 633-892-3175",
+      "company": "Zimmerman-Hebert",
+      "jobTitle": "Surveyor, minerals",
+      "industry": "Healthcare",
+      "source": "Email Campaign",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 35950,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Choose bill science assume man.",
+      "id": "50",
+      "createdAt": "2026-03-06T20:19:34.765Z",
+      "updatedAt": "2026-03-06T20:19:34.765Z"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Check: JWT Token returned
+Expected: Non-empty string
+Actual: Present: True, Length: 29
+Status: ✓ PASS

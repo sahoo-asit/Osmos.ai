@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Julie Arias",
+    "email": "testlead_20260306201934_iglj@testmail.com",
+    "phone": "+33 660-910-8711",
+    "company": "Wu Ltd",
+    "jobTitle": "Engineer, maintenance (IT)",
+    "industry": "Manufacturing",
+    "source": "Trade Show",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 21840,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Challenge unit lawyer green argue few each business."
+  }
+}

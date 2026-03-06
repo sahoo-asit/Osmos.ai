@@ -1,0 +1,3 @@
+Expected: Table with data visible
+Actual: Row count: 10
+Status: ✓ PASS

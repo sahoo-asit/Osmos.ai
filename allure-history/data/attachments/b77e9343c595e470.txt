@@ -1,0 +1,4 @@
+Check: Status Code
+Expected: 400 or 422
+Actual: 400
+Status: ✓ PASS

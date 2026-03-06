@@ -1,0 +1,4 @@
+Check: Leads is array
+Expected: True
+Actual: True
+Status: ✓ PASS

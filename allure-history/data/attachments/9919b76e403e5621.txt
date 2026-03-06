@@ -1,0 +1,4 @@
+Check: Role in response
+Expected: manager
+Actual: manager
+Status: ✓ PASS

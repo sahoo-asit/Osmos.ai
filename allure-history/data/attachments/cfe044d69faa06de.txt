@@ -1,0 +1,4 @@
+Check: Field: status
+Expected: New
+Actual: New
+Status: ✓ PASS

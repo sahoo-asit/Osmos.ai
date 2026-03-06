@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Mr. Kenneth Allen MD",
+    "email": "testlead_20260306201934_xpzk@testmail.com",
+    "phone": "+1 454-468-2899",
+    "company": "Hawkins, Terrell and Mcfarland",
+    "jobTitle": "Dietitian",
+    "industry": "Finance",
+    "source": "Cold Call",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 134434,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Add throughout loss learn economy."
+  }
+}

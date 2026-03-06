@@ -1,0 +1,4 @@
+Check: Status Code
+Expected: 400 or 401
+Actual: 401
+Status: ✓ PASS

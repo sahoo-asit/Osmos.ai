@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 140.37,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Emma Vasquez",
+      "email": "testlead_20260306201936_uddy@testmail.com",
+      "phone": "+1 859-552-5485",
+      "company": "Bass and Sons",
+      "jobTitle": "Forensic scientist",
+      "industry": "Manufacturing",
+      "source": "Website",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 35395,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Baby instead true strategy.",
+      "id": "56",
+      "createdAt": "2026-03-06T20:19:36.426Z",
+      "updatedAt": "2026-03-06T20:19:36.426Z"
+    }
+  }
+}

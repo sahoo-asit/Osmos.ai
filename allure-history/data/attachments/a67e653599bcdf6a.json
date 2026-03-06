@@ -1,0 +1,12 @@
+{
+  "method": "DELETE",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads/123",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  }
+}

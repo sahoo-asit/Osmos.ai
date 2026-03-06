@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 150.26,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Elizabeth Stewart",
+      "email": "testlead_20260306201935_aozp@testmail.com",
+      "phone": "+49 599-931-5149",
+      "company": "Smith LLC",
+      "jobTitle": "Energy manager",
+      "industry": "Finance",
+      "source": "Cold Call",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 63592,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Debate relationship today suffer cause blood.",
+      "id": "123",
+      "createdAt": "2026-03-06T20:19:35.662Z",
+      "updatedAt": "2026-03-06T20:19:35.662Z"
+    }
+  }
+}

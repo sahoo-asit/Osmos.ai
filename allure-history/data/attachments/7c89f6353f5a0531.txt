@@ -1,0 +1,4 @@
+Check: Response success field
+Expected: True
+Actual: True
+Status: ✓ PASS

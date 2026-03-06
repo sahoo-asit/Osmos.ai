@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "",
+    "email": "testlead_20260306201934_yfsr@testmail.com",
+    "phone": "+44 405-408-2647",
+    "company": "Flynn, Robinson and Jordan",
+    "jobTitle": "Solicitor, Scotland",
+    "industry": "Retail",
+    "source": "Referral",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 152771,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Decide response include argue mother."
+  }
+}

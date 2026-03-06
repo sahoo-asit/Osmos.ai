@@ -1,0 +1,4 @@
+Check: HTTP Status Code (Unauthorized)
+Expected: 401
+Actual: 401
+Status: ✓ PASS

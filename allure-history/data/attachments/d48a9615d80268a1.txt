@@ -1,0 +1,4 @@
+Check: Field: Email
+Expected: testlead_20260306201935_hhdg@testmail.com
+Actual: testlead_20260306201935_hhdg@testmail.com
+Status: ✓ PASS

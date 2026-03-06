@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 152.0,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Justin Wilcox",
+      "email": "testlead_20260306201935_zvcd@testmail.com",
+      "phone": "+44 582-404-3662",
+      "company": "Mitchell Ltd",
+      "jobTitle": "Programme researcher, broadcasting/film/video",
+      "industry": "Retail",
+      "source": "Trade Show",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 194927,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Congress democratic force experience get citizen.",
+      "id": "26",
+      "createdAt": "2026-03-06T20:19:35.737Z",
+      "updatedAt": "2026-03-06T20:19:35.737Z"
+    }
+  }
+}

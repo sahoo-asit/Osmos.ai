@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 142.97,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Alexandra Hart",
+      "email": "testlead_20260306201936_kzla@testmail.com",
+      "phone": "+33 610-414-9811",
+      "company": "Smith, May and Cruz",
+      "jobTitle": "Rural practice surveyor",
+      "industry": "Other",
+      "source": "Referral",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 136213,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Cold natural time figure try carry several.",
+      "id": "28",
+      "createdAt": "2026-03-06T20:19:36.423Z",
+      "updatedAt": "2026-03-06T20:19:36.423Z"
+    }
+  }
+}

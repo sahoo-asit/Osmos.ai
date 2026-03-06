@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Gary Peterson",
+    "email": "testlead_20260306201934_ujuj@testmail.com",
+    "phone": "+33 466-562-9540",
+    "company": "George-Burnett",
+    "jobTitle": "Clinical cytogeneticist",
+    "industry": "Healthcare",
+    "source": "Trade Show",
+    "priority": "High",
+    "status": "Contacted",
+    "dealValue": 76454,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Reduce forward itself win happy individual air."
+  }
+}

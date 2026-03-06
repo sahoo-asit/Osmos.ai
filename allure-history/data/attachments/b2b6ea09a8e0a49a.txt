@@ -1,0 +1,4 @@
+Check: Error message present
+Expected: Non-empty error message
+Actual: Error: Invalid credentials
+Status: ✓ PASS

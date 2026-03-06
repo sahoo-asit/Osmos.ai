@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jennifer Crawford",
+    "email": "testlead_20260306201934_sbnm@testmail.com",
+    "phone": "+44 576-340-7994",
+    "company": "Estes, Lamb and Garcia",
+    "jobTitle": "Programmer, systems",
+    "industry": "Healthcare",
+    "source": "Referral",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 140085,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Color among event admit feel recognize show design."
+  }
+}

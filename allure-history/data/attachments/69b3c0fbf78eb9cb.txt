@@ -1,0 +1,4 @@
+Check: Lead 2 status
+Expected: Contacted
+Actual: Contacted
+Status: ✓ PASS

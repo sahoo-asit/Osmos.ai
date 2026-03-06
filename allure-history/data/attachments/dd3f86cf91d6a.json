@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 161.71,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Erica Murray",
+      "email": "testlead_20260306201935_evyk@testmail.com",
+      "isQualified": true,
+      "emailOptIn": true,
+      "id": "61",
+      "createdAt": "2026-03-06T20:19:35.158Z",
+      "updatedAt": "2026-03-06T20:19:35.158Z"
+    }
+  }
+}

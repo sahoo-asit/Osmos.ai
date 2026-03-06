@@ -1,0 +1,4 @@
+Check: Field: phone
+Expected: +33 984-201-7980
+Actual: +33 984-201-7980
+Status: ✓ PASS

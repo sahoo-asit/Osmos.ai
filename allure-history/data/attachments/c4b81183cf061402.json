@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 144.14,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jennifer Walker",
+      "email": "testlead_20260306201934_stzc@testmail.com",
+      "phone": "+33 984-201-7980",
+      "company": "Test Corporation",
+      "jobTitle": "Senior Manager",
+      "industry": "Technology",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 75000,
+      "isQualified": true,
+      "emailOptIn": true,
+      "notes": "Full field test lead",
+      "id": "49",
+      "createdAt": "2026-03-06T20:19:34.714Z",
+      "updatedAt": "2026-03-06T20:19:34.714Z"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 182.73,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Tamara Vasquez",
+      "email": "testlead_20260306201934_xphy@testmail.com",
+      "phone": "+1 516-423-7378",
+      "company": "Lawrence-Gates",
+      "jobTitle": "Surveyor, rural practice",
+      "industry": "Manufacturing",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 60055,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Research reality responsibility.",
+      "id": "53",
+      "createdAt": "2026-03-06T20:19:34.584Z",
+      "updatedAt": "2026-03-06T20:19:34.584Z"
+    }
+  }
+}

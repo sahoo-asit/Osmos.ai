@@ -1,0 +1,15 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 156.13,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Ralph Byrd MD",
+      "email": "testlead_20260306201935_exqj@testmail.com",
+      "company": "Test\u0000Company",
+      "id": "24",
+      "createdAt": "2026-03-06T20:19:35.478Z",
+      "updatedAt": "2026-03-06T20:19:35.478Z"
+    }
+  }
+}

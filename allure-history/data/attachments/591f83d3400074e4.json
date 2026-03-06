@@ -1,0 +1,26 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 148.83,
+  "body": {
+    "success": true,
+    "leads": [
+      {
+        "name": "<script>alert('xss')</script>",
+        "email": "testlead_20260306200351_pwps@testmail.com",
+        "id": "100",
+        "createdAt": "2026-03-06T20:03:51.248Z",
+        "updatedAt": "2026-03-06T20:03:51.248Z"
+      },
+      {
+        "name": "<script>alert('xss')</script>",
+        "email": "testlead_20260306195842_rjsw@testmail.com",
+        "id": "64",
+        "createdAt": "2026-03-06T19:58:42.941Z",
+        "updatedAt": "2026-03-06T19:58:42.941Z"
+      }
+    ],
+    "total": 2,
+    "page": 1,
+    "pageSize": 10
+  }
+}

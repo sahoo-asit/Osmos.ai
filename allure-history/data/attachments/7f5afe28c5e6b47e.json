@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Nicole Young",
+    "email": "testlead_20260306201935_ovao@testmail.com",
+    "phone": "+61 215-440-9960",
+    "company": "Scott-Smith",
+    "jobTitle": "Aid worker",
+    "industry": "Technology",
+    "source": "Trade Show",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 143750,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Win company scientist official consider."
+  }
+}

@@ -1,0 +1,4 @@
+Check: Field: Is Qualified
+Expected: True
+Actual: True
+Status: ✓ PASS

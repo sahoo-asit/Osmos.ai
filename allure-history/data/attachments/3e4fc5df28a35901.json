@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 154.12,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "John Hoffman",
+      "email": "testlead_20260306201935_qzig@testmail.com",
+      "isQualified": true,
+      "emailOptIn": false,
+      "id": "55",
+      "createdAt": "2026-03-06T20:19:35.319Z",
+      "updatedAt": "2026-03-06T20:19:35.319Z"
+    }
+  }
+}

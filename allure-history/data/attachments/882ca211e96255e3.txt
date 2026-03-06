@@ -1,0 +1,4 @@
+Check: Source
+Expected: Email Campaign
+Actual: Email Campaign
+Status: ✓ PASS

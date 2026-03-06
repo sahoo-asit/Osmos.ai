@@ -1,0 +1,14 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 141.2,
+  "body": {
+    "success": false,
+    "error": "Validation failed",
+    "errors": [
+      {
+        "field": "name",
+        "message": "Name must not exceed 100 characters"
+      }
+    ]
+  }
+}

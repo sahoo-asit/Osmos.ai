@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Daniel Lewis",
+    "email": "testlead_20260306201934_aszk@testmail.com",
+    "phone": "+49 915-577-6931",
+    "company": "Mcdonald-Williams",
+    "jobTitle": "Editor, film/video",
+    "industry": "Other",
+    "source": "Trade Show",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 164379,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Worry oil raise attack."
+  }
+}

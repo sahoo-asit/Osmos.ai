@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "William Rivera",
+    "email": "testlead_20260306201934_jbgv@testmail.com",
+    "phone": "+81 822-509-6515",
+    "company": "Campbell, Johnson and Hall",
+    "jobTitle": "Prison officer",
+    "industry": "Education",
+    "source": "LinkedIn",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 94039,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Build stock turn space act capital where bill."
+  }
+}

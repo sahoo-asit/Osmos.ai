@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Nicole Lee",
+    "email": "testlead_20260306201934_lrso@testmail.com",
+    "phone": "+44 410-897-7781",
+    "company": "Gilbert, Diaz and Brown",
+    "jobTitle": "Clothing/textile technologist",
+    "industry": "Finance",
+    "source": "Cold Call",
+    "priority": "SuperUrgent",
+    "status": "New",
+    "dealValue": 91971,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Enter as recognize middle half."
+  }
+}

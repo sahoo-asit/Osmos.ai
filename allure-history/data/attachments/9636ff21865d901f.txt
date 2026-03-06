@@ -1,0 +1,4 @@
+Check: Industry
+Expected: Retail
+Actual: Retail
+Status: ✓ PASS

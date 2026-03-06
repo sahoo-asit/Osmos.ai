@@ -1,0 +1,10 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 162.39,
+  "body": {
+    "success": true,
+    "token": "Bearer_VIEWER_TEST_TOKEN_12345",
+    "email": "tester@company.com",
+    "role": "viewer"
+  }
+}

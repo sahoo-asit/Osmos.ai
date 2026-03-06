@@ -1,0 +1,4 @@
+Check: User role is admin
+Expected: admin
+Actual: admin
+Status: ✓ PASS

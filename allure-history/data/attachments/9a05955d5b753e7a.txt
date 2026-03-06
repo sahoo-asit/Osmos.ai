@@ -1,0 +1,3 @@
+Expected: URL contains /login
+Actual: Current URL: https://v0-lead-manager-app.vercel.app/login
+Status: ✓ PASS

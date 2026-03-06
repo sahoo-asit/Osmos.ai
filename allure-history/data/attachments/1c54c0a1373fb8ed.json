@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Curtis Reed",
+    "email": "testlead_20260306201934_hljh@testmail.com",
+    "phone": "+81 766-823-8336",
+    "company": "Johnson Group",
+    "jobTitle": "Medical technical officer",
+    "industry": "Education",
+    "source": "Cold Call",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 150714,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Mention report lot."
+  }
+}

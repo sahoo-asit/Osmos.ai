@@ -1,0 +1,4 @@
+Check: Lead 106 status
+Expected: Lost
+Actual: Lost
+Status: ✓ PASS

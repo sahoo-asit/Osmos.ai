@@ -1,0 +1,4 @@
+Check: Field: company
+Expected: Test Corporation
+Actual: Test Corporation
+Status: ✓ PASS

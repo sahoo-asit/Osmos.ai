@@ -1,0 +1,2 @@
+Admin: admin@company.com
+API URL: https://v0-lead-manager-app.vercel.app/api

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 155.84,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Melissa Young",
+      "email": "testlead_20260306201934_djdz@testmail.com",
+      "phone": "+61 200-730-7641",
+      "company": "Burton, Odonnell and Wang",
+      "jobTitle": "Engineer, biomedical",
+      "industry": "Healthcare",
+      "source": "Cold Call",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 33233,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Throw talk smile poor.",
+      "id": "51",
+      "createdAt": "2026-03-06T20:19:34.927Z",
+      "updatedAt": "2026-03-06T20:19:34.927Z"
+    }
+  }
+}

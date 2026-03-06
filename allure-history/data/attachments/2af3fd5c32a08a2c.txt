@@ -1,0 +1,4 @@
+Check: Role
+Expected: admin
+Actual: admin
+Status: ✓ PASS

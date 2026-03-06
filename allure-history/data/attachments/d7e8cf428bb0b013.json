@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Emma Vasquez",
+    "email": "testlead_20260306201936_uddy@testmail.com",
+    "phone": "+1 859-552-5485",
+    "company": "Bass and Sons",
+    "jobTitle": "Forensic scientist",
+    "industry": "Manufacturing",
+    "source": "Website",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 35395,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Baby instead true strategy."
+  }
+}

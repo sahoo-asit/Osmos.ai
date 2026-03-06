@@ -1,0 +1,4 @@
+Check: Lead has 'id' field
+Expected: True
+Actual: True
+Status: ✓ PASS

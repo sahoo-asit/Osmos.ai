@@ -1,0 +1,4 @@
+Check: Email updated
+Expected: updated_testlead_20260306201935_dpoa@testmail.com
+Actual: updated_testlead_20260306201935_dpoa@testmail.com
+Status: ✓ PASS

@@ -1,0 +1,25 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 155.24,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Carol Martin",
+      "email": "testlead_20260306201935_jcky@testmail.com",
+      "phone": "+44 743-424-6533",
+      "company": "Byrd Group",
+      "jobTitle": "Bonds trader",
+      "industry": "Manufacturing",
+      "source": "Referral",
+      "priority": "Critical",
+      "status": "Contacted",
+      "dealValue": 129366,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Next own perform TV matter good across.",
+      "id": "163",
+      "createdAt": "2026-03-06T20:19:35.717Z",
+      "updatedAt": "2026-03-06T20:19:35.845Z"
+    }
+  }
+}

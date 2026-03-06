@@ -1,0 +1,4 @@
+Check: Field: Deal Value
+Expected: 50000
+Actual: 50000
+Status: ✓ PASS

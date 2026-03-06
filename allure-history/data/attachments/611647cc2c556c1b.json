@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 162.17,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Sue Cisneros",
+      "email": "testlead_20260306201934_qfnq@testmail.com",
+      "phone": "+91 535-434-2445",
+      "company": "James-Reese",
+      "jobTitle": "Diagnostic radiographer",
+      "industry": "Finance",
+      "source": "Email Campaign",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 105458,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Issue before exactly suffer.",
+      "id": "47",
+      "createdAt": "2026-03-06T20:19:34.553Z",
+      "updatedAt": "2026-03-06T20:19:34.553Z"
+    }
+  }
+}

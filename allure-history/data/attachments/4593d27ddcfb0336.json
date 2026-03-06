@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 140.84,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "John Everett",
+      "email": "testlead_20260306201934_kwnu@testmail.com",
+      "phone": "+81 854-879-5403",
+      "company": "Blair and Sons",
+      "jobTitle": "Technical brewer",
+      "industry": "Other",
+      "source": "Referral",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 183383,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Morning reality go manage where gas.",
+      "id": "57",
+      "createdAt": "2026-03-06T20:19:34.841Z",
+      "updatedAt": "2026-03-06T20:19:34.841Z"
+    }
+  }
+}

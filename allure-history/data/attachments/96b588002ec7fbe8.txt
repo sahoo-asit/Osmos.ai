@@ -1,0 +1,3 @@
+Expected: ≥0 New leads
+Actual: 10
+Status: ✓ PASS

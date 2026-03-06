@@ -1,0 +1,4 @@
+Check: Industry
+Expected: Healthcare
+Actual: Healthcare
+Status: ✓ PASS

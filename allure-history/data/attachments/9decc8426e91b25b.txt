@@ -1,0 +1,4 @@
+Check: Industry
+Expected: Finance
+Actual: Finance
+Status: ✓ PASS

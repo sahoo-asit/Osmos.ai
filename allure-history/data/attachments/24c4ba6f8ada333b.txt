@@ -1,0 +1,4 @@
+Check: Has 'leads' field
+Expected: True
+Actual: True
+Status: ✓ PASS

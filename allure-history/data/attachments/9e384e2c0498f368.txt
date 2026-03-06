@@ -1,0 +1,4 @@
+Check: Role
+Expected: viewer
+Actual: viewer
+Status: ✓ PASS

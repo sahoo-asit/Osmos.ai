@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 163.54,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Peter Graham",
+      "email": "testlead_20260306201934_kdmt@testmail.com",
+      "phone": "+91 553-935-6901",
+      "company": "Perry-Nguyen",
+      "jobTitle": "Event organiser",
+      "industry": "Other",
+      "source": "Website",
+      "priority": "Low",
+      "status": "Lost",
+      "dealValue": 195455,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Specific Congress expert sometimes into detail responsibility.",
+      "id": "48",
+      "createdAt": "2026-03-06T20:19:34.698Z",
+      "updatedAt": "2026-03-06T20:19:34.698Z"
+    }
+  }
+}

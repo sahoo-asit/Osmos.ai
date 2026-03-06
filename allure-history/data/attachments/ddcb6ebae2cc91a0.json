@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 172.02,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Brooke Steele",
+      "email": "testlead_20260306201934_ovsn@testmail.com",
+      "phone": "+49 768-447-6102",
+      "company": "Sampson Ltd",
+      "jobTitle": "Technical sales engineer",
+      "industry": "Finance",
+      "source": "Trade Show",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 124824,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Middle PM form true public finish.",
+      "id": "117",
+      "createdAt": "2026-03-06T20:19:34.564Z",
+      "updatedAt": "2026-03-06T20:19:34.564Z"
+    }
+  }
+}

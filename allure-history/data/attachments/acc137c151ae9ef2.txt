@@ -1,0 +1,4 @@
+Check: Lead has 'email' field
+Expected: True
+Actual: True
+Status: ✓ PASS

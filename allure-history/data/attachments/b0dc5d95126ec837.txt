@@ -1,0 +1,4 @@
+Check: Response is valid JSON
+Expected: Valid JSON object
+Actual: dict
+Status: ✓ PASS

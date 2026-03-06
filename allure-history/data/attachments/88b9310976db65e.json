@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 148.75,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Summer Smith",
+      "email": "testlead_20260306201935_esvg@testmail.com",
+      "phone": "+91 215-782-3557",
+      "company": "Anderson, Owens and Young",
+      "jobTitle": "Learning mentor",
+      "industry": "Technology",
+      "source": "Referral",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 174048,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Book rule because.",
+      "id": "166",
+      "createdAt": "2026-03-06T20:19:36.029Z",
+      "updatedAt": "2026-03-06T20:19:36.029Z"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Sara Proctor",
+    "email": "testlead_20260306201934_qjra@testmail.com",
+    "phone": "+1 821-771-9133",
+    "company": "Solomon-Swanson",
+    "jobTitle": "Museum/gallery curator",
+    "industry": "Other",
+    "source": "Cold Call",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 98256,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Face tree dog."
+  }
+}

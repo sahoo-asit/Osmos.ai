@@ -1,0 +1,4 @@
+Check: Lead 12 status
+Expected: Qualified
+Actual: Qualified
+Status: ✓ PASS

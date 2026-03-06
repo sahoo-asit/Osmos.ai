@@ -1,0 +1,4 @@
+Check: Has 'success' field
+Expected: True
+Actual: True
+Status: ✓ PASS
