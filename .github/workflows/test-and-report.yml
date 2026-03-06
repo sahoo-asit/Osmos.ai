@@ -23,12 +23,6 @@ on:
           - '4'
           - '8'
           - '10'
-  # Auto-trigger on push to main
-  push:
-    branches: [ main, master ]
-  # Auto-trigger on PR
-  pull_request:
-    branches: [ main, master ]
 
 permissions:
   contents: write
