@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Michael Johnson Jr.",
+    "email": "testlead_20260306204828_gwxx@testmail.com",
+    "phone": "+1 587-363-1808",
+    "company": "Test Corporation",
+    "jobTitle": "Senior Manager",
+    "industry": "Technology",
+    "source": "Website",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 75000,
+    "isQualified": true,
+    "emailOptIn": true,
+    "notes": "Full field test lead"
+  }
+}

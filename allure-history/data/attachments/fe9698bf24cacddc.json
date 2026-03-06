@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 277.23,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Linda Jackson",
+      "email": "testlead_20260306204828_uiio@testmail.com",
+      "phone": "+81 783-809-3134",
+      "company": "Jackson LLC",
+      "jobTitle": "Editorial assistant",
+      "industry": "Other",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 51270,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Wife provide bank media notice whom very.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:48:28.938Z",
+      "updatedAt": "2026-03-06T20:48:28.939Z"
+    }
+  }
+}

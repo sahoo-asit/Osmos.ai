@@ -1,0 +1,18 @@
+{
+  "method": "PUT",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads/28",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Alexandra Olson",
+    "email": "testlead_20260306204829_vbkh@testmail.com",
+    "priority": "High",
+    "status": "New"
+  }
+}

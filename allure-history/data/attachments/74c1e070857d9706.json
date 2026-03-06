@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 148.76,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "James Peters Jr.",
+      "email": "testlead_20260306204828_ccwk@testmail.com",
+      "phone": "+1 900-870-2470",
+      "company": "Gomez LLC",
+      "jobTitle": "Food technologist",
+      "industry": "Manufacturing",
+      "source": "Cold Call",
+      "priority": "High",
+      "status": "Contacted",
+      "dealValue": 11079,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Majority artist operation fear know.",
+      "id": "33",
+      "createdAt": "2026-03-06T20:48:28.704Z",
+      "updatedAt": "2026-03-06T20:48:28.704Z"
+    }
+  }
+}

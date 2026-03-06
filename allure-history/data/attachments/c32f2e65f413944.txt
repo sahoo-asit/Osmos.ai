@@ -1,4 +1,0 @@
-Check: Status
-Expected: Contacted
-Actual: Contacted
-Status: ✓ PASS

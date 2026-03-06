@@ -1,8 +1,0 @@
-{
-  "status_code": 400,
-  "elapsed_ms": 45.22,
-  "body": {
-    "success": false,
-    "error": "Email and password are required"
-  }
-}

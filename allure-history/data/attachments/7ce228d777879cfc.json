@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 197.04,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jesse Baldwin",
+      "email": "testlead_20260306204828_ktai@testmail.com",
+      "phone": "+81 593-509-9004",
+      "company": "Christian-Jacobson",
+      "jobTitle": "Oceanographer",
+      "industry": "Healthcare",
+      "source": "Email Campaign",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 120675,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Mission street staff interest guess voice during throw.",
+      "id": "27",
+      "createdAt": "2026-03-06T20:48:28.546Z",
+      "updatedAt": "2026-03-06T20:48:28.546Z"
+    }
+  }
+}

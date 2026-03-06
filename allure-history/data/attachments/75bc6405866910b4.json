@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 159.66,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Kimberly Case",
+      "email": "testlead_20260306204828_lzth@testmail.com",
+      "phone": "+61 433-822-3675",
+      "company": "Martinez Inc",
+      "jobTitle": "Operations geologist",
+      "industry": "Education",
+      "source": "Website",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 173253,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Such usually walk actually however four four time.",
+      "id": "36",
+      "createdAt": "2026-03-06T20:48:28.993Z",
+      "updatedAt": "2026-03-06T20:48:28.993Z"
+    }
+  }
+}

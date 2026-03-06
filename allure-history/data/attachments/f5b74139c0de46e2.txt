@@ -1,0 +1,4 @@
+Check: Field: name
+Expected: Michael Johnson Jr.
+Actual: Michael Johnson Jr.
+Status: ✓ PASS

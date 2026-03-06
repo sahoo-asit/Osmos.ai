@@ -1,0 +1,4 @@
+Check: Lead has 'status' field
+Expected: True
+Actual: False
+Status: ✗ FAIL

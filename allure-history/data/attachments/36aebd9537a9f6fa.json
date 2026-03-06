@@ -1,0 +1,14 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 215.11,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "<script>alert('xss')</script>",
+      "email": "testlead_20260306204829_iehq@testmail.com",
+      "id": "24",
+      "createdAt": "2026-03-06T20:48:29.231Z",
+      "updatedAt": "2026-03-06T20:48:29.231Z"
+    }
+  }
+}

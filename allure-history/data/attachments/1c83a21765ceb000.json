@@ -1,0 +1,25 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 106.3,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Troy Stevens",
+      "email": "updated_testlead_20260306204829_csnr@testmail.com",
+      "phone": "+49 953-390-7495",
+      "company": "Test Corporation",
+      "jobTitle": "Senior Manager",
+      "industry": "Technology",
+      "source": "Website",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 75000,
+      "isQualified": true,
+      "emailOptIn": true,
+      "notes": "Full field test lead",
+      "id": "23",
+      "createdAt": "2026-03-06T20:40:08.336Z",
+      "updatedAt": "2026-03-06T20:48:29.632Z"
+    }
+  }
+}

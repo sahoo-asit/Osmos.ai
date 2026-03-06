@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 191.79,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "David Tyler MD",
+      "email": "testlead_20260306204828_wlmm@testmail.com",
+      "phone": "+33 854-864-9380",
+      "company": "Taylor and Sons",
+      "jobTitle": "Sales professional, IT",
+      "industry": "Other",
+      "source": "Email Campaign",
+      "priority": "Medium",
+      "status": "Lost",
+      "dealValue": 117652,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Since car meeting deep.",
+      "id": "31",
+      "createdAt": "2026-03-06T20:48:28.603Z",
+      "updatedAt": "2026-03-06T20:48:28.603Z"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 148.15,
+  "body": {
+    "success": true,
+    "leads": [
+      {
+        "name": "<script>alert('xss')</script>",
+        "email": "testlead_20260306204008_xzhc@testmail.com",
+        "id": "25",
+        "createdAt": "2026-03-06T20:40:08.550Z",
+        "updatedAt": "2026-03-06T20:40:08.550Z"
+      }
+    ],
+    "total": 1,
+    "page": 1,
+    "pageSize": 10
+  }
+}

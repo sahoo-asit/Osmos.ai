@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Melissa Daniels",
+    "email": "testlead_20260306204828_hduy@testmail.com",
+    "phone": "+1 798-327-8035",
+    "company": "Trujillo-Robbins",
+    "jobTitle": "Data processing manager",
+    "industry": "Retail",
+    "source": "Referral",
+    "priority": "Low",
+    "status": "Won",
+    "dealValue": 97475,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Unit final claim how."
+  }
+}

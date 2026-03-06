@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Tammie Cooper",
+    "email": "testlead_20260306204829_acdg@testmail.com",
+    "phone": "+61 642-663-4078",
+    "company": "Saunders, Harris and Cabrera",
+    "jobTitle": "Seismic interpreter",
+    "industry": "Education",
+    "source": "Cold Call",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 140809,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "You begin those wear son better."
+  }
+}

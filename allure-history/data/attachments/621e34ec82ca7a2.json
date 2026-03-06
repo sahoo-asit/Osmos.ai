@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 146.56,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "SearchTest_+33 3972821622",
+      "email": "testlead_20260306204829_njju@testmail.com",
+      "phone": "+1 978-853-4296",
+      "company": "Smith and Sons",
+      "jobTitle": "Proofreader",
+      "industry": "Other",
+      "source": "Cold Call",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 79393,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Significant amount contain west.",
+      "id": "30",
+      "createdAt": "2026-03-06T20:48:29.962Z",
+      "updatedAt": "2026-03-06T20:48:29.962Z"
+    }
+  }
+}

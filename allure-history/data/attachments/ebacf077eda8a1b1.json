@@ -1,0 +1,8 @@
+{
+  "status_code": 401,
+  "elapsed_ms": 154.89,
+  "body": {
+    "success": false,
+    "error": "Invalid or expired token"
+  }
+}

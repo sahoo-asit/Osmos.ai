@@ -1,3 +1,0 @@
-Expected: Lead 'Calvin Baker' found in table
-Actual: Found: True
-Status: ✓ PASS

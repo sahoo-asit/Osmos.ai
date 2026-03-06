@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 166.0,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Victoria Montgomery",
+      "email": "testlead_20260306204828_abbk@testmail.com",
+      "phone": "+49 783-730-1476",
+      "company": "Adams-Faulkner",
+      "jobTitle": "Trading standards officer",
+      "industry": "Retail",
+      "source": "LinkedIn",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 181545,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Every movie art describe add hold either.",
+      "id": "29",
+      "createdAt": "2026-03-06T20:48:28.555Z",
+      "updatedAt": "2026-03-06T20:48:28.555Z"
+    }
+  }
+}

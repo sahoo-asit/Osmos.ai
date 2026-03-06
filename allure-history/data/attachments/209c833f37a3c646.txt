@@ -1,4 +1,0 @@
-Check: Email matches
-Expected: testlead_20260306204008_xvgs@testmail.com
-Actual: testlead_20260306204008_xvgs@testmail.com
-Status: ✓ PASS

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 446.41,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Tammy Jones",
+      "email": "testlead_20260306204828_nmbl@testmail.com",
+      "phone": "+61 624-627-1932",
+      "company": "Peterson, Velasquez and Martinez",
+      "jobTitle": "Geophysical data processor",
+      "industry": "Retail",
+      "source": "Cold Call",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 32667,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Own radio those campaign.",
+      "id": "21",
+      "createdAt": "2026-03-06T20:48:28.818Z",
+      "updatedAt": "2026-03-06T20:48:28.819Z"
+    }
+  }
+}

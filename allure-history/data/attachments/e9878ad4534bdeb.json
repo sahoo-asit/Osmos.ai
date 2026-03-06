@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "email": "testlead_20260306204828_rvjb@testmail.com",
+    "phone": "+81 520-373-6130",
+    "company": "Simpson-Hart",
+    "jobTitle": "Risk analyst",
+    "industry": "Retail",
+    "source": "Referral",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 191627,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Daughter draw necessary."
+  }
+}

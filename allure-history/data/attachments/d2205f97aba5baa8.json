@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "John Gibson",
+    "email": "testlead_20260306204829_qliy@testmail.com",
+    "phone": "+81 466-926-2107",
+    "company": "Massey Inc",
+    "jobTitle": "Armed forces training and education officer",
+    "industry": "Retail",
+    "source": "Website",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 107861,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Usually central policy career."
+  }
+}

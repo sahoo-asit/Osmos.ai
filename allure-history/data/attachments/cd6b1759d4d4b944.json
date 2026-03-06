@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 141.56,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Nancy Mills",
+      "email": "testlead_20260306204829_uqph@testmail.com",
+      "isQualified": false,
+      "emailOptIn": true,
+      "id": "34",
+      "createdAt": "2026-03-06T20:48:29.361Z",
+      "updatedAt": "2026-03-06T20:48:29.361Z"
+    }
+  }
+}

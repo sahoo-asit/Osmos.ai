@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 180.54,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Sandra Wiley",
+      "email": "testlead_20260306204828_febu@testmail.com",
+      "phone": "+91 526-326-6934",
+      "company": "Ortiz, Ortega and Chavez",
+      "jobTitle": "Structural engineer",
+      "industry": "Finance",
+      "source": "Email Campaign",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 89128,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Turn method civil truth beyond.",
+      "id": "28",
+      "createdAt": "2026-03-06T20:48:28.570Z",
+      "updatedAt": "2026-03-06T20:48:28.570Z"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "payload": {
+    "name": "Emily Gonzales",
+    "email": "testlead_20260306204829_uoit@testmail.com",
+    "phone": "+44 443-527-9837",
+    "company": "Anderson, Jones and Davis",
+    "jobTitle": "Pensions consultant",
+    "industry": "Other",
+    "source": "Referral",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 152646,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Church every past attention pattern message edge."
+  }
+}

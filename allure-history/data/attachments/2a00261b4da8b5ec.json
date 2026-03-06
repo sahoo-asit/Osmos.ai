@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Katrina Hall",
+    "email": "testlead_20260306204828_xvoa@testmail.com",
+    "phone": "+1 858-669-7341",
+    "company": "Bell, Baker and Hall",
+    "jobTitle": "Operations geologist",
+    "industry": "Other",
+    "source": "Trade Show",
+    "priority": "SuperUrgent",
+    "status": "New",
+    "dealValue": 197904,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "President respond glass film off."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 103.72,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Updated Test Name",
+      "email": "testlead_20260306204829_ifim@testmail.com",
+      "phone": "+44 909-208-7484",
+      "company": "Brooks-Randolph",
+      "jobTitle": "Nurse, children's",
+      "industry": "Finance",
+      "source": "Referral",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 135160,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "No area should form benefit act.",
+      "id": "26",
+      "createdAt": "2026-03-06T20:40:08.957Z",
+      "updatedAt": "2026-03-06T20:48:29.884Z"
+    }
+  }
+}

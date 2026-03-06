@@ -1,0 +1,4 @@
+Check: Email updated
+Expected: updated_testlead_20260306204829_csnr@testmail.com
+Actual: updated_testlead_20260306204829_csnr@testmail.com
+Status: ✓ PASS

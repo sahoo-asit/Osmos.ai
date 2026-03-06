@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 149.43,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Tammie Cooper",
+      "email": "testlead_20260306204829_acdg@testmail.com",
+      "phone": "+61 642-663-4078",
+      "company": "Saunders, Harris and Cabrera",
+      "jobTitle": "Seismic interpreter",
+      "industry": "Education",
+      "source": "Cold Call",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 140809,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "You begin those wear son better.",
+      "id": "37",
+      "createdAt": "2026-03-06T20:48:29.503Z",
+      "updatedAt": "2026-03-06T20:48:29.503Z"
+    }
+  }
+}

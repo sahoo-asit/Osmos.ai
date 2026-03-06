@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 221.77,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Sean Underwood",
+      "email": "testlead_20260306204828_bwiu@testmail.com",
+      "phone": "+81 393-628-5308",
+      "company": "Whitaker Group",
+      "jobTitle": "Manufacturing engineer",
+      "industry": "Education",
+      "source": "Referral",
+      "priority": "Low",
+      "status": "Qualified",
+      "dealValue": 123966,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Various quickly our staff stand town thought.",
+      "id": "30",
+      "createdAt": "2026-03-06T20:48:28.420Z",
+      "updatedAt": "2026-03-06T20:48:28.420Z"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+Check: Email matches
+Expected: testlead_20260306204828_ewal@testmail.com
+Actual: testlead_20260306204828_ewal@testmail.com
+Status: ✓ PASS

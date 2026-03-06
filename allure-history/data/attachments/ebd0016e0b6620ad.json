@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Benjamin Smith",
+    "email": "testlead_20260306204829_hmcw@testmail.com",
+    "phone": "+33 299-620-6425",
+    "company": "Garcia-Dunn",
+    "jobTitle": "Administrator, sports",
+    "industry": "Technology",
+    "source": "Trade Show",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": -5000,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Family fish ball source specific pull course."
+  }
+}

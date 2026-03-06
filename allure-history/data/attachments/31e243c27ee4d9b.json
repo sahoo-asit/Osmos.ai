@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 188.83,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Stephanie Duncan",
+      "email": "testlead_20260306204829_yppo@testmail.com",
+      "isQualified": true,
+      "emailOptIn": false,
+      "id": "23",
+      "createdAt": "2026-03-06T20:48:29.197Z",
+      "updatedAt": "2026-03-06T20:48:29.197Z"
+    }
+  }
+}

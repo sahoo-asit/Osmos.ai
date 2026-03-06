@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "",
+    "email": "testlead_20260306204828_igrn@testmail.com",
+    "phone": "+49 845-471-2495",
+    "company": "Rodriguez and Sons",
+    "jobTitle": "Special effects artist",
+    "industry": "Finance",
+    "source": "Email Campaign",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 13244,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Lawyer score notice."
+  }
+}

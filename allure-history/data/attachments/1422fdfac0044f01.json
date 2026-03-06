@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Alisha Miller",
+    "email": "testlead_20260306204829_qhez@testmail.com",
+    "phone": "+1 922-732-5428",
+    "company": "Jordan-Kim",
+    "jobTitle": "English as a foreign language teacher",
+    "industry": "Technology",
+    "source": "Referral",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 40103,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Color great most six matter travel."
+  }
+}

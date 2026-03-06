@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 150.87,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "John Gibson",
+      "email": "testlead_20260306204829_qliy@testmail.com",
+      "phone": "+81 466-926-2107",
+      "company": "Massey Inc",
+      "jobTitle": "Armed forces training and education officer",
+      "industry": "Retail",
+      "source": "Website",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 107861,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Usually central policy career.",
+      "id": "27",
+      "createdAt": "2026-03-06T20:48:29.814Z",
+      "updatedAt": "2026-03-06T20:48:29.814Z"
+    }
+  }
+}

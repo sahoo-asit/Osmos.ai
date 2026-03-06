@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "email": "testlead_20260306204829_xzpx@testmail.com",
+    "phone": "+1 332-786-8592",
+    "company": "Rodriguez-Rivera",
+    "jobTitle": "Clothing/textile technologist",
+    "industry": "Healthcare",
+    "source": "LinkedIn",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 69664,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "May rather crime heart."
+  }
+}

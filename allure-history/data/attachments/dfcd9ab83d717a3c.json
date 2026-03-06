@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 160.44,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Sara Fischer",
+      "email": "testlead_20260306204828_ewal@testmail.com",
+      "phone": "+61 255-630-9835",
+      "company": "Smith-Blair",
+      "jobTitle": "Further education lecturer",
+      "industry": "Other",
+      "source": "Trade Show",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 71955,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Note force lawyer move north.",
+      "id": "27",
+      "createdAt": "2026-03-06T20:48:28.340Z",
+      "updatedAt": "2026-03-06T20:48:28.340Z"
+    }
+  }
+}

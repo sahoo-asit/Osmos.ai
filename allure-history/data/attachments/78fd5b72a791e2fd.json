@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Dustin Howard",
+    "email": "testlead_20260306204828_wybb@testmail.com",
+    "phone": "+49 764-928-9233",
+    "company": "Brennan-Griffin",
+    "jobTitle": "Health and safety adviser",
+    "industry": "Other",
+    "source": "Email Campaign",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 108650,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Billion little wish hour determine today turn."
+  }
+}

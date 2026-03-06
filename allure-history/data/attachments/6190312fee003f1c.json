@@ -1,0 +1,14 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 151.58,
+  "body": {
+    "success": false,
+    "error": "Validation failed",
+    "errors": [
+      {
+        "field": "name",
+        "message": "Name is required and must be a non-empty string"
+      }
+    ]
+  }
+}

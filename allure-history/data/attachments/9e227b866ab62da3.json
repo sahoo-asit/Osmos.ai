@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 174.24,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Angela Bautista",
+      "email": "testlead_20260306204828_expd@testmail.com",
+      "phone": "+49 560-425-1033",
+      "company": "Parker-Kennedy",
+      "jobTitle": "Broadcast engineer",
+      "industry": "Healthcare",
+      "source": "LinkedIn",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 30885,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Tonight model check store movie director article get.",
+      "id": "25",
+      "createdAt": "2026-03-06T20:48:28.387Z",
+      "updatedAt": "2026-03-06T20:48:28.387Z"
+    }
+  }
+}

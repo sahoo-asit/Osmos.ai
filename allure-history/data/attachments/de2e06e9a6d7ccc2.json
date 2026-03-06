@@ -1,0 +1,14 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 244.31,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jos\u00e9 Mar\u00eda O'Brien-Smith",
+      "email": "testlead_20260306204829_tzwd@testmail.com",
+      "id": "31",
+      "createdAt": "2026-03-06T20:48:29.236Z",
+      "updatedAt": "2026-03-06T20:48:29.236Z"
+    }
+  }
+}

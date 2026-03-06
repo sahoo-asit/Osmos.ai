@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Judy Mendoza",
+    "email": "testlead_20260306204829_pvsf@testmail.com",
+    "phone": "+1 668-303-4986",
+    "company": "Short, Hawkins and Smith",
+    "jobTitle": "Statistician",
+    "industry": "Healthcare",
+    "source": "Cold Call",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 81610,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "And city maybe happen may difficult."
+  }
+}

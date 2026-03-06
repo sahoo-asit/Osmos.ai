@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jonathan Anderson",
+    "email": "testlead_20260306204828_kskf@testmail.com",
+    "phone": "+49 879-398-8137",
+    "company": "Mccall-Brandt",
+    "jobTitle": "Hospital pharmacist",
+    "industry": "Retail",
+    "source": "Cold Call",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 999999999999,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Road hit half difference word."
+  }
+}

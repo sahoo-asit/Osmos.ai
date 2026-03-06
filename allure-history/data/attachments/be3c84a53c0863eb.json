@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json"
+  },
+  "payload": {
+    "name": "Scott Forbes",
+    "email": "testlead_20260306204829_pwxn@testmail.com",
+    "phone": "+33 222-497-9086",
+    "company": "Gillespie PLC",
+    "jobTitle": "Artist",
+    "industry": "Healthcare",
+    "source": "Website",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 123634,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Condition throughout of discover."
+  }
+}

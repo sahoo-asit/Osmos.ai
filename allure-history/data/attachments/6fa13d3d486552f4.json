@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 144.59,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Laura Krueger",
+      "email": "testlead_20260306204828_wzqw@testmail.com",
+      "isQualified": false,
+      "emailOptIn": false,
+      "id": "35",
+      "createdAt": "2026-03-06T20:48:28.867Z",
+      "updatedAt": "2026-03-06T20:48:28.867Z"
+    }
+  }
+}

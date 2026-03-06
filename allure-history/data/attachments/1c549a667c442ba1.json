@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "A",
+    "email": "testlead_20260306204829_lwjq@testmail.com",
+    "phone": "+1 536-326-3247",
+    "company": "Graham and Sons",
+    "jobTitle": "Scientist, physiological",
+    "industry": "Finance",
+    "source": "LinkedIn",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 91849,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Movie investment receive car team ability."
+  }
+}

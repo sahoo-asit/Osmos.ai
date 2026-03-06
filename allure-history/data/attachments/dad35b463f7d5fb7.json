@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "AB",
+    "email": "testlead_20260306204829_xdie@testmail.com",
+    "phone": "+81 531-859-4453",
+    "company": "Barnes PLC",
+    "jobTitle": "Claims inspector/assessor",
+    "industry": "Technology",
+    "source": "Referral",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 112758,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Beautiful yet value."
+  }
+}

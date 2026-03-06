@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Stephanie Edwards",
+    "email": "testlead_20260306204828_vuli@testmail.com",
+    "phone": "+1 981-946-6169",
+    "company": "Howard, Kennedy and Soto",
+    "jobTitle": "Politician's assistant",
+    "industry": "Finance",
+    "source": "Cold Call",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 61585,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "He second however cold."
+  }
+}

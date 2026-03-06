@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Alexandra Olson",
+    "email": "testlead_20260306204829_vbkh@testmail.com",
+    "phone": "+44 242-324-7657",
+    "company": "Glover-Adams",
+    "jobTitle": "Geographical information systems officer",
+    "industry": "Other",
+    "source": "Email Campaign",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 110087,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Short less when newspaper nearly through world."
+  }
+}

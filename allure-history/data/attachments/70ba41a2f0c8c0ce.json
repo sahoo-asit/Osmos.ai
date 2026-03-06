@@ -1,0 +1,8 @@
+{
+  "status_code": 404,
+  "elapsed_ms": 151.1,
+  "body": {
+    "success": false,
+    "error": "Lead not found"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 151.68,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Troy Stevens",
+      "email": "testlead_20260306204829_csnr@testmail.com",
+      "phone": "+81 419-802-4371",
+      "company": "Lynch-Roach",
+      "jobTitle": "Hydrologist",
+      "industry": "Other",
+      "source": "Cold Call",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 111380,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "South loss culture campaign perform value.",
+      "id": "23",
+      "createdAt": "2026-03-06T20:48:29.526Z",
+      "updatedAt": "2026-03-06T20:48:29.526Z"
+    }
+  }
+}

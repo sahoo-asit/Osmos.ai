@@ -1,4 +1,0 @@
-Check: Found leads
-Expected: ≥1
-Actual: 0
-Status: ✗ FAIL

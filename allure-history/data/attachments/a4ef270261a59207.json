@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 229.37,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Geoffrey Davis",
+      "email": "testlead_20260306204828_cddc@testmail.com",
+      "phone": "+44 619-391-9634",
+      "company": "Gonzalez, Mitchell and Gilbert",
+      "jobTitle": "Embryologist, clinical",
+      "industry": "Manufacturing",
+      "source": "Trade Show",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 155401,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Note force whole she.",
+      "id": "32",
+      "createdAt": "2026-03-06T20:48:28.667Z",
+      "updatedAt": "2026-03-06T20:48:28.667Z"
+    }
+  }
+}

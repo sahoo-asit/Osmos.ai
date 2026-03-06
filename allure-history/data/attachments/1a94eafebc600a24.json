@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "James Peters Jr.",
+    "email": "testlead_20260306204828_ccwk@testmail.com",
+    "phone": "+1 900-870-2470",
+    "company": "Gomez LLC",
+    "jobTitle": "Food technologist",
+    "industry": "Manufacturing",
+    "source": "Cold Call",
+    "priority": "High",
+    "status": "Contacted",
+    "dealValue": 11079,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Majority artist operation fear know."
+  }
+}

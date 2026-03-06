@@ -1,0 +1,14 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 203.15,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "\u7530\u4e2d\u592a\u90ce",
+      "email": "testlead_20260306204828_cbet@testmail.com",
+      "id": "37",
+      "createdAt": "2026-03-06T20:48:29.012Z",
+      "updatedAt": "2026-03-06T20:48:29.012Z"
+    }
+  }
+}

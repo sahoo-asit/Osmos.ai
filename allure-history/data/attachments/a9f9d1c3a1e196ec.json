@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 132.1,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Kristen Mccarty",
+      "email": "testlead_20260306204829_wtiz@testmail.com",
+      "phone": "+33 340-866-8305",
+      "company": "Carroll-Montgomery",
+      "jobTitle": "Engineer, manufacturing",
+      "industry": "Education",
+      "source": "Cold Call",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 50665,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Pass hotel miss where throughout feeling your last.",
+      "id": "38",
+      "createdAt": "2026-03-06T20:48:29.519Z",
+      "updatedAt": "2026-03-06T20:48:29.519Z"
+    }
+  }
+}

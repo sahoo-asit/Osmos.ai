@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Robert Mitchell",
+    "email": "testlead_20260306204828_sggv@testmail.com",
+    "phone": "+33 722-713-1322",
+    "company": "Parks, Kelly and Saunders",
+    "jobTitle": "Nutritional therapist",
+    "industry": "Other",
+    "source": "LinkedIn",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 178893,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Lawyer laugh career newspaper chance."
+  }
+}

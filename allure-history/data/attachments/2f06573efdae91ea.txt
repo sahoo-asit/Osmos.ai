@@ -1,0 +1,4 @@
+Check: Field: phone
+Expected: +1 587-363-1808
+Actual: +1 587-363-1808
+Status: ✓ PASS

@@ -1,0 +1,15 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 140.4,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Christopher Brown",
+      "email": "testlead_20260306204829_lbya@testmail.com",
+      "company": "Test\u0000Company",
+      "id": "32",
+      "createdAt": "2026-03-06T20:48:29.254Z",
+      "updatedAt": "2026-03-06T20:48:29.254Z"
+    }
+  }
+}

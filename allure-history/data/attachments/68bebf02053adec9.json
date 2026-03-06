@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 179.8,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Alexandria Pitts",
+      "email": "testlead_20260306204829_knvb@testmail.com",
+      "phone": "+49 446-856-9468",
+      "company": "Mclaughlin, Henderson and Webb",
+      "jobTitle": "Public relations officer",
+      "industry": "Finance",
+      "source": "Referral",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 162030,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Whom fire over.",
+      "id": "25",
+      "createdAt": "2026-03-06T20:48:29.333Z",
+      "updatedAt": "2026-03-06T20:48:29.333Z"
+    }
+  }
+}

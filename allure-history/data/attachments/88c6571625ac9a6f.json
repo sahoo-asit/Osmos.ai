@@ -1,0 +1,26 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Amanda Barton",
+    "phone": "+81 613-922-1290",
+    "company": "Bradshaw Ltd",
+    "jobTitle": "Accounting technician",
+    "industry": "Manufacturing",
+    "source": "LinkedIn",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 174951,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Simply training wall low discover create."
+  }
+}

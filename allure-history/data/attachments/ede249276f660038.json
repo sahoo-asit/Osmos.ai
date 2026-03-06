@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Kristen Anderson",
+    "email": "testlead_20260306204829_cygy@testmail.com",
+    "phone": "+81 446-533-1308",
+    "company": "Gonzalez-Malone",
+    "jobTitle": "Sports therapist",
+    "industry": "Retail",
+    "source": "Website",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 150340,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "President age full capital above police red."
+  }
+}

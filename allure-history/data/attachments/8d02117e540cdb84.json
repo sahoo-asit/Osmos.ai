@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Jeffrey Simmons",
+    "email": "testlead_20260306204829_ifim@testmail.com",
+    "phone": "+91 670-416-3156",
+    "company": "Reeves, Evans and Flores",
+    "jobTitle": "Trade mark attorney",
+    "industry": "Retail",
+    "source": "Referral",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 139693,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "See care we any mouth either threat."
+  }
+}

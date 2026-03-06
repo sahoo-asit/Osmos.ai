@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 145.46,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "David Sanchez",
+      "email": "testlead_20260306204830_kuap@testmail.com",
+      "phone": "+91 333-924-6001",
+      "company": "Harris PLC",
+      "jobTitle": "Customer service manager",
+      "industry": "Finance",
+      "source": "Trade Show",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 169948,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Board parent leg federal year suffer.",
+      "id": "29",
+      "createdAt": "2026-03-06T20:48:30.406Z",
+      "updatedAt": "2026-03-06T20:48:30.406Z"
+    }
+  }
+}

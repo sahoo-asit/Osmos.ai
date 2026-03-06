@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Tammy Jones",
+    "email": "testlead_20260306204828_nmbl@testmail.com",
+    "phone": "+61 624-627-1932",
+    "company": "Peterson, Velasquez and Martinez",
+    "jobTitle": "Geophysical data processor",
+    "industry": "Retail",
+    "source": "Cold Call",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 32667,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Own radio those campaign."
+  }
+}

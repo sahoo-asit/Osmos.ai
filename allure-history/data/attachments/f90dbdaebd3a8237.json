@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 171.63,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Stephanie Edwards",
+      "email": "testlead_20260306204828_vuli@testmail.com",
+      "phone": "+1 981-946-6169",
+      "company": "Howard, Kennedy and Soto",
+      "jobTitle": "Politician's assistant",
+      "industry": "Finance",
+      "source": "Cold Call",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 61585,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "He second however cold.",
+      "id": "26",
+      "createdAt": "2026-03-06T20:48:28.429Z",
+      "updatedAt": "2026-03-06T20:48:28.429Z"
+    }
+  }
+}

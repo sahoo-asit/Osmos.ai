@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Lorraine Rivas",
+    "email": "testlead_20260306204828_gram@testmail.com",
+    "phone": "+1 839-300-1013",
+    "company": "Russell-Jimenez",
+    "jobTitle": "Sports administrator",
+    "industry": "Retail",
+    "source": "Email Campaign",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 158861,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Week me candidate day about cell."
+  }
+}

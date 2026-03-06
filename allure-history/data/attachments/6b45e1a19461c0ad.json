@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Kristen Mccarty",
+    "email": "testlead_20260306204829_wtiz@testmail.com",
+    "phone": "+33 340-866-8305",
+    "company": "Carroll-Montgomery",
+    "jobTitle": "Engineer, manufacturing",
+    "industry": "Education",
+    "source": "Cold Call",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 50665,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Pass hotel miss where throughout feeling your last."
+  }
+}

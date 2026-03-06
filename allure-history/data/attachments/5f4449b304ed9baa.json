@@ -1,0 +1,142 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 150.94,
+  "body": {
+    "success": true,
+    "leads": [
+      {
+        "name": "Kristen Mccarty",
+        "email": "testlead_20260306204829_wtiz@testmail.com",
+        "phone": "+33 340-866-8305",
+        "company": "Carroll-Montgomery",
+        "jobTitle": "Engineer, manufacturing",
+        "industry": "Education",
+        "source": "Cold Call",
+        "priority": "Medium",
+        "status": "New",
+        "dealValue": 50665,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Pass hotel miss where throughout feeling your last.",
+        "id": "38",
+        "createdAt": "2026-03-06T20:48:29.519Z",
+        "updatedAt": "2026-03-06T20:48:29.519Z"
+      },
+      {
+        "name": "Tammie Cooper",
+        "email": "testlead_20260306204829_acdg@testmail.com",
+        "phone": "+61 642-663-4078",
+        "company": "Saunders, Harris and Cabrera",
+        "jobTitle": "Seismic interpreter",
+        "industry": "Education",
+        "source": "Cold Call",
+        "priority": "Low",
+        "status": "New",
+        "dealValue": 140809,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "You begin those wear son better.",
+        "id": "37",
+        "createdAt": "2026-03-06T20:48:29.503Z",
+        "updatedAt": "2026-03-06T20:48:29.503Z"
+      },
+      {
+        "name": "Test Lead Validation",
+        "email": "testlead_20260306204829_jyti@testmail.com",
+        "phone": "+44 446-739-7589",
+        "company": "TestCorp",
+        "jobTitle": "Test Manager",
+        "industry": "Technology",
+        "source": "Website",
+        "priority": "High",
+        "status": "New",
+        "dealValue": 50000,
+        "isQualified": true,
+        "emailOptIn": false,
+        "notes": "Detailed validation test",
+        "id": "36",
+        "createdAt": "2026-03-06T20:48:29.466Z",
+        "updatedAt": "2026-03-06T20:48:29.466Z"
+      },
+      {
+        "name": "'; DROP TABLE leads; --",
+        "email": "testlead_20260306204829_folk@testmail.com",
+        "id": "35",
+        "createdAt": "2026-03-06T20:48:29.381Z",
+        "updatedAt": "2026-03-06T20:48:29.381Z"
+      },
+      {
+        "name": "Nancy Mills",
+        "email": "testlead_20260306204829_uqph@testmail.com",
+        "isQualified": false,
+        "emailOptIn": true,
+        "id": "34",
+        "createdAt": "2026-03-06T20:48:29.361Z",
+        "updatedAt": "2026-03-06T20:48:29.361Z"
+      },
+      {
+        "name": "AB",
+        "email": "testlead_20260306204829_xdie@testmail.com",
+        "phone": "+81 531-859-4453",
+        "company": "Barnes PLC",
+        "jobTitle": "Claims inspector/assessor",
+        "industry": "Technology",
+        "source": "Referral",
+        "priority": "Low",
+        "status": "New",
+        "dealValue": 112758,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Beautiful yet value.",
+        "id": "33",
+        "createdAt": "2026-03-06T20:48:29.341Z",
+        "updatedAt": "2026-03-06T20:48:29.341Z"
+      },
+      {
+        "name": "Christopher Brown",
+        "email": "testlead_20260306204829_lbya@testmail.com",
+        "company": "Test\u0000Company",
+        "id": "32",
+        "createdAt": "2026-03-06T20:48:29.254Z",
+        "updatedAt": "2026-03-06T20:48:29.254Z"
+      },
+      {
+        "name": "Jos\u00e9 Mar\u00eda O'Brien-Smith",
+        "email": "testlead_20260306204829_tzwd@testmail.com",
+        "id": "31",
+        "createdAt": "2026-03-06T20:48:29.236Z",
+        "updatedAt": "2026-03-06T20:48:29.236Z"
+      },
+      {
+        "name": "David Neal",
+        "email": "testlead_20260306204829_hicv@testmail.com",
+        "phone": "+49 335-771-5108",
+        "company": "Smith LLC",
+        "jobTitle": "Pharmacologist",
+        "industry": "Other",
+        "source": "Referral",
+        "priority": "High",
+        "status": "New",
+        "dealValue": 0,
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Fill within could here admit.",
+        "id": "30",
+        "createdAt": "2026-03-06T20:48:29.174Z",
+        "updatedAt": "2026-03-06T20:48:29.174Z"
+      },
+      {
+        "name": "Jessica Ramos",
+        "email": "testlead_20260306204828_ylot@testmail.com",
+        "isQualified": true,
+        "emailOptIn": true,
+        "id": "29",
+        "createdAt": "2026-03-06T20:48:29.015Z",
+        "updatedAt": "2026-03-06T20:48:29.015Z"
+      }
+    ],
+    "total": 38,
+    "page": 1,
+    "pageSize": 10
+  }
+}

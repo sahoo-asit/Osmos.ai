@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 149.02,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Lorraine Rivas",
+      "email": "testlead_20260306204828_gram@testmail.com",
+      "phone": "+1 839-300-1013",
+      "company": "Russell-Jimenez",
+      "jobTitle": "Sports administrator",
+      "industry": "Retail",
+      "source": "Email Campaign",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 158861,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Week me candidate day about cell.",
+      "id": "27",
+      "createdAt": "2026-03-06T20:48:28.332Z",
+      "updatedAt": "2026-03-06T20:48:28.332Z"
+    }
+  }
+}

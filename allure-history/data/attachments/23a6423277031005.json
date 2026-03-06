@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 147.67,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "AB",
+      "email": "testlead_20260306204829_xdie@testmail.com",
+      "phone": "+81 531-859-4453",
+      "company": "Barnes PLC",
+      "jobTitle": "Claims inspector/assessor",
+      "industry": "Technology",
+      "source": "Referral",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 112758,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Beautiful yet value.",
+      "id": "33",
+      "createdAt": "2026-03-06T20:48:29.341Z",
+      "updatedAt": "2026-03-06T20:48:29.341Z"
+    }
+  }
+}

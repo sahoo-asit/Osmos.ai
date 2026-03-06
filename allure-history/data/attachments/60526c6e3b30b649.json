@@ -1,0 +1,72 @@
+{
+  "status_code": 200,
+  "elapsed_ms": 144.36,
+  "body": {
+    "success": true,
+    "leads": [
+      {
+        "id": "4",
+        "name": "David Williams",
+        "email": "dwilliams@enterprise.net",
+        "phone": "",
+        "company": "Enterprise Corp",
+        "jobTitle": "IT Manager",
+        "industry": "Finance",
+        "source": "Cold Call",
+        "priority": "Low",
+        "status": "Lost",
+        "dealValue": 30000,
+        "expectedCloseDate": "",
+        "followUpDate": "",
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Not interested at this time. Budget constraints.",
+        "createdAt": "2025-01-07T09:00:00Z",
+        "updatedAt": "2025-01-10T13:20:00Z"
+      },
+      {
+        "id": "10",
+        "name": "James White",
+        "email": "james.white@consulting.com",
+        "phone": "+1 (555) 890-1234",
+        "company": "White Consulting Group",
+        "jobTitle": "Senior Consultant",
+        "industry": "Other",
+        "source": "Cold Call",
+        "priority": "Low",
+        "status": "Lost",
+        "dealValue": 20000,
+        "expectedCloseDate": "",
+        "followUpDate": "",
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Went with competitor. Price too high.",
+        "createdAt": "2025-01-03T12:15:00Z",
+        "updatedAt": "2025-01-06T15:20:00Z"
+      },
+      {
+        "id": "16",
+        "name": "Steven Lewis",
+        "email": "steven.lewis@growth.io",
+        "phone": "",
+        "company": "Growth Strategies LLC",
+        "jobTitle": "Business Analyst",
+        "industry": "Finance",
+        "source": "Cold Call",
+        "priority": "Low",
+        "status": "Lost",
+        "dealValue": 0,
+        "expectedCloseDate": "",
+        "followUpDate": "",
+        "isQualified": false,
+        "emailOptIn": false,
+        "notes": "Not the right time. Company restructuring.",
+        "createdAt": "2024-12-30T15:00:00Z",
+        "updatedAt": "2025-01-03T09:30:00Z"
+      }
+    ],
+    "total": 3,
+    "page": 1,
+    "pageSize": 10
+  }
+}

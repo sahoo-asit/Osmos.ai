@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Cole Knight",
+    "email": "not-an-email",
+    "phone": "+44 430-965-1597",
+    "company": "Saunders, Watts and White",
+    "jobTitle": "Prison officer",
+    "industry": "Technology",
+    "source": "LinkedIn",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 153780,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Shake gun able article."
+  }
+}

@@ -1,0 +1,1 @@
+{'name': 'Test Lead Validation', 'email': 'testlead_20260306204829_jyti@testmail.com', 'phone': '+44 446-739-7589', 'company': 'TestCorp', 'jobTitle': 'Test Manager', 'industry': 'Technology', 'source': 'Website', 'priority': 'High', 'status': 'New', 'dealValue': 50000, 'isQualified': True, 'emailOptIn': False, 'notes': 'Detailed validation test'}

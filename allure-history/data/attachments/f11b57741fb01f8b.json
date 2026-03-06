@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 167.84,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Brian Scott",
+      "email": "testlead_20260306204828_tadl@testmail.com",
+      "phone": "+49 903-792-8149",
+      "company": "Fernandez, Wilson and Moore",
+      "jobTitle": "Editor, magazine features",
+      "industry": "Technology",
+      "source": "Referral",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 198891,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Soldier writer artist create hear develop drug.",
+      "id": "30",
+      "createdAt": "2026-03-06T20:48:28.572Z",
+      "updatedAt": "2026-03-06T20:48:28.572Z"
+    }
+  }
+}

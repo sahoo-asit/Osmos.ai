@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 186.12,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Gary Diaz",
+      "email": "testlead_20260306204828_opwq@testmail.com",
+      "phone": "+81 943-831-3164",
+      "company": "Lester, Gay and Ayala",
+      "jobTitle": "Firefighter",
+      "industry": "Retail",
+      "source": "LinkedIn",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 95206,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Send child research purpose.",
+      "id": "28",
+      "createdAt": "2026-03-06T20:48:28.382Z",
+      "updatedAt": "2026-03-06T20:48:28.382Z"
+    }
+  }
+}

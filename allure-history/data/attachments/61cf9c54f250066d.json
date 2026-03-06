@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Rebecca Watkins",
+    "email": "testlead_20260306204828_vmag@testmail.com",
+    "phone": "+49 599-594-6956",
+    "company": "Garner LLC",
+    "jobTitle": "Automotive engineer",
+    "industry": "Technology",
+    "source": "Trade Show",
+    "priority": "Critical",
+    "status": "New",
+    "dealValue": 50422,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Million her happen off suddenly."
+  }
+}

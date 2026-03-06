@@ -1,0 +1,4 @@
+Check: Lead 26 status
+Expected: New
+Actual: New
+Status: ✓ PASS

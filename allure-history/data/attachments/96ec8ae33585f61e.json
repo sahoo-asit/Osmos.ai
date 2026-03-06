@@ -1,0 +1,15 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 173.78,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jeremy Mcknight",
+      "email": "testlead_20260306204828_gfeu@testmail.com",
+      "notes": "${7*7} {{constructor.constructor('return this')()}}",
+      "id": "22",
+      "createdAt": "2026-03-06T20:48:28.982Z",
+      "updatedAt": "2026-03-06T20:48:28.982Z"
+    }
+  }
+}

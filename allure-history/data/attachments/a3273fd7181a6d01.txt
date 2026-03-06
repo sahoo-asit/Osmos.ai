@@ -1,4 +1,0 @@
-Check: Name matches
-Expected: Julie Smith
-Actual: Julie Smith
-Status: ✓ PASS

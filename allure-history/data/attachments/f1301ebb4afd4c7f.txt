@@ -1,4 +1,0 @@
-Check: Lead has 'status' field
-Expected: True
-Actual: True
-Status: ✓ PASS

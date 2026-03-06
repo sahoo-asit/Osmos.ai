@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 150.47,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Leah Ball",
+      "email": "testlead_20260306204829_cnya@testmail.com",
+      "phone": "+44 872-998-1712",
+      "company": "Barnes, Smith and Smith",
+      "jobTitle": "Interpreter",
+      "industry": "Manufacturing",
+      "source": "Referral",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 173564,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Something card fine west how whether someone.",
+      "id": "28",
+      "createdAt": "2026-03-06T20:48:29.764Z",
+      "updatedAt": "2026-03-06T20:48:29.764Z"
+    }
+  }
+}

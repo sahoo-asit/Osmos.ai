@@ -1,4 +1,0 @@
-Check: Lead 21 status
-Expected: Lost
-Actual: Lost
-Status: ✓ PASS

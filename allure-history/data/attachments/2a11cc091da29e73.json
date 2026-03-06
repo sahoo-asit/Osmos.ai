@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 147.8,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Nicole Berg",
+      "email": "testlead_20260306204829_hcuh@testmail.com",
+      "phone": "+61 912-754-1704",
+      "company": "Robles, Ellison and Tapia",
+      "jobTitle": "Research officer, political party",
+      "industry": "Other",
+      "source": "Referral",
+      "priority": "Low",
+      "status": "New",
+      "dealValue": 199149,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "East oil single special show.",
+      "id": "24",
+      "createdAt": "2026-03-06T20:48:29.681Z",
+      "updatedAt": "2026-03-06T20:48:29.681Z"
+    }
+  }
+}

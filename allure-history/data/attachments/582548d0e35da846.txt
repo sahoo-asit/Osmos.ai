@@ -1,4 +1,0 @@
-Check: Email updated
-Expected: updated_testlead_20260306204008_rhgx@testmail.com
-Actual: updated_testlead_20260306204008_rhgx@testmail.com
-Status: ✓ PASS

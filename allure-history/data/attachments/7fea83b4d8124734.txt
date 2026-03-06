@@ -1,4 +1,0 @@
-Check: Lead has 'priority' field
-Expected: True
-Actual: True
-Status: ✓ PASS

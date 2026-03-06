@@ -1,0 +1,14 @@
+{
+  "status_code": 400,
+  "elapsed_ms": 165.43,
+  "body": {
+    "success": false,
+    "error": "Validation failed",
+    "errors": [
+      {
+        "field": "notes",
+        "message": "Notes must be a string with maximum 1000 characters"
+      }
+    ]
+  }
+}

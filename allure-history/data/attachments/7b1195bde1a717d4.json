@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 234.67,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Alisha Miller",
+      "email": "testlead_20260306204829_qhez@testmail.com",
+      "phone": "+1 922-732-5428",
+      "company": "Jordan-Kim",
+      "jobTitle": "English as a foreign language teacher",
+      "industry": "Technology",
+      "source": "Referral",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 40103,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Color great most six matter travel.",
+      "id": "29",
+      "createdAt": "2026-03-06T20:48:29.883Z",
+      "updatedAt": "2026-03-06T20:48:29.883Z"
+    }
+  }
+}

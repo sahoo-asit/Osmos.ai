@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 189.02,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Evan Ibarra",
+      "email": "testlead_20260306204828_adno@testmail.com",
+      "phone": "+49 203-264-1998",
+      "company": "Patton-Fowler",
+      "jobTitle": "Volunteer coordinator",
+      "industry": "Manufacturing",
+      "source": "LinkedIn",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 193316,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Senior paper beat least deal attack.",
+      "id": "28",
+      "createdAt": "2026-03-06T20:48:28.371Z",
+      "updatedAt": "2026-03-06T20:48:28.371Z"
+    }
+  }
+}

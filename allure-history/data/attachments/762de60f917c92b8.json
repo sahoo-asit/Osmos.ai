@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 170.46,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Rebecca Watkins",
+      "email": "testlead_20260306204828_vmag@testmail.com",
+      "phone": "+49 599-594-6956",
+      "company": "Garner LLC",
+      "jobTitle": "Automotive engineer",
+      "industry": "Technology",
+      "source": "Trade Show",
+      "priority": "Critical",
+      "status": "New",
+      "dealValue": 50422,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Million her happen off suddenly.",
+      "id": "27",
+      "createdAt": "2026-03-06T20:48:28.337Z",
+      "updatedAt": "2026-03-06T20:48:28.337Z"
+    }
+  }
+}

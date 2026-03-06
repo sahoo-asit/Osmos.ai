@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Cristina Bennett MD",
+    "email": "",
+    "phone": "+44 886-826-6881",
+    "company": "Guzman-Williams",
+    "jobTitle": "Agricultural engineer",
+    "industry": "Finance",
+    "source": "Trade Show",
+    "priority": "Low",
+    "status": "New",
+    "dealValue": 175641,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Cell teacher player mean could."
+  }
+}

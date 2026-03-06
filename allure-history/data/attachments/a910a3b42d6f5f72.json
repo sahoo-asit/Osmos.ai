@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Evan Ibarra",
+    "email": "testlead_20260306204828_adno@testmail.com",
+    "phone": "+49 203-264-1998",
+    "company": "Patton-Fowler",
+    "jobTitle": "Volunteer coordinator",
+    "industry": "Manufacturing",
+    "source": "LinkedIn",
+    "priority": "Medium",
+    "status": "New",
+    "dealValue": 193316,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Senior paper beat least deal attack."
+  }
+}

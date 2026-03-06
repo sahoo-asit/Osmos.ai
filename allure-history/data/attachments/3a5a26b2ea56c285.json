@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 148.6,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "David Neal",
+      "email": "testlead_20260306204829_hicv@testmail.com",
+      "phone": "+49 335-771-5108",
+      "company": "Smith LLC",
+      "jobTitle": "Pharmacologist",
+      "industry": "Other",
+      "source": "Referral",
+      "priority": "High",
+      "status": "New",
+      "dealValue": 0,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Fill within could here admit.",
+      "id": "30",
+      "createdAt": "2026-03-06T20:48:29.174Z",
+      "updatedAt": "2026-03-06T20:48:29.174Z"
+    }
+  }
+}

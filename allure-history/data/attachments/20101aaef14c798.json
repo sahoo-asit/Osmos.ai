@@ -1,0 +1,16 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 148.62,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Jessica Ramos",
+      "email": "testlead_20260306204828_ylot@testmail.com",
+      "isQualified": true,
+      "emailOptIn": true,
+      "id": "29",
+      "createdAt": "2026-03-06T20:48:29.015Z",
+      "updatedAt": "2026-03-06T20:48:29.015Z"
+    }
+  }
+}

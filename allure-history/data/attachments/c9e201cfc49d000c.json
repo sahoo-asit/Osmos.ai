@@ -1,0 +1,25 @@
+{
+  "status_code": 201,
+  "elapsed_ms": 225.33,
+  "body": {
+    "success": true,
+    "lead": {
+      "name": "Lee Mayo",
+      "email": "testlead_20260306204828_qpyh@testmail.com",
+      "phone": "+33 679-927-6084",
+      "company": "Pugh, Dennis and Pearson",
+      "jobTitle": "Animal nutritionist",
+      "industry": "Education",
+      "source": "Trade Show",
+      "priority": "Medium",
+      "status": "New",
+      "dealValue": 195095,
+      "isQualified": false,
+      "emailOptIn": false,
+      "notes": "Smile free difference article.",
+      "id": "34",
+      "createdAt": "2026-03-06T20:48:28.803Z",
+      "updatedAt": "2026-03-06T20:48:28.803Z"
+    }
+  }
+}

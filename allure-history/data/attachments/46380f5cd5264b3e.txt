@@ -1,4 +1,0 @@
-Check: Status Code
-Expected: 200
-Actual: 404
-Status: ✗ FAIL

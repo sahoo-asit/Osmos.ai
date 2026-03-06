@@ -1,2 +1,0 @@
-name=Jennifer Clark
-email=testlead_20260306204039_kyma@testmail.com

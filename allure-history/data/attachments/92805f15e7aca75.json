@@ -1,0 +1,27 @@
+{
+  "method": "POST",
+  "url": "https://v0-lead-manager-app.vercel.app/api/leads",
+  "headers": {
+    "User-Agent": "python-requests/2.32.3",
+    "Accept-Encoding": "gzip, deflate",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer ***"
+  },
+  "payload": {
+    "name": "Victoria Montgomery",
+    "email": "testlead_20260306204828_abbk@testmail.com",
+    "phone": "+49 783-730-1476",
+    "company": "Adams-Faulkner",
+    "jobTitle": "Trading standards officer",
+    "industry": "Retail",
+    "source": "LinkedIn",
+    "priority": "High",
+    "status": "New",
+    "dealValue": 181545,
+    "isQualified": false,
+    "emailOptIn": false,
+    "notes": "Every movie art describe add hold either."
+  }
+}
